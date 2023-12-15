@@ -1,3 +1,6 @@
+
+<img src="./doc/5.jpg" alt="Power rail probe, schematic" width="700">
+
 The OWL Driver Board is a solid-state relay HAT for the Raspberry Pi. It was
 developed for use with the [Open Weed Locator](https://github.com/geezacoleman/OpenWeedLocator) 
 but is suitable for any automotive or agricultural application.
@@ -24,6 +27,12 @@ Self-resetting polyfuses on the input and outputs limit current, and TVS+Schottk
 diodes provide reverse polarity protection, protection against noise and
 inductive voltage spikes, and over-voltage protection. This protection also
 extends to communication buses with the Raspberry Pi.
+
+# Purchase a finished board
+
+You can buy a finished board via the following distributors:
+
+ * [paradar.co.uk](https://paradar.co.uk/products/owl-driver-board-raspberry-pi-automotive-relay-hat)
 
 # License
 
