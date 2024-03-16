@@ -4706,7 +4706,7 @@
   )
 
   (symbol (lib_id "SparkFun-Connectors:CONN_03X2NO_SILK") (at 102.87 177.165 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 19c971c7-f476-4432-a466-0fd8895c185d)
     (property "Reference" "J10" (id 0) (at 102.87 167.4979 0)
       (effects (font (size 1.143 1.143)))
@@ -5186,9 +5186,6 @@
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf" (id 3) (at 190.5 45.085 0)
       (effects (font (size 1.524 1.524)) hide)
-    )
-    (property "Field4" " " (id 4) (at 193.04 48.26 90)
-      (effects (font (size 1.524 1.524)) (justify right))
     )
     (property "LCSC Part" "C21190" (id 5) (at 190.5 45.085 0)
       (effects (font (size 1.27 1.27)) hide)

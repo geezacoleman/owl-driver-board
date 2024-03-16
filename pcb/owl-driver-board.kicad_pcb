@@ -2047,7 +2047,7 @@
     (property "Sheetfile" "owl-driver-board.kicad_sch")
     (property "Sheetname" "")
     (path "/54a378cb-dc72-4cf1-b0b4-6b306233d786")
-    (attr smd exclude_from_pos_files)
+    (attr smd)
     (fp_text reference "U2" (at -3.2 -5.975 180) (layer "F.SilkS") hide
       (effects (font (size 0.75 0.75) (thickness 0.12)))
       (tstamp 8bf4f47c-e466-41cc-9572-9b8ca6d82d71)
