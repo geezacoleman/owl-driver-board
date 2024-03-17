@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/blinken/co/owl-driver-board/pcb/owl-driver-board.kicad_sch</source>
-    <date>Sun 17 Mar 2024 11:35:54 GMT</date>
+    <date>Sun 17 Mar 2024 12:01:17 GMT</date>
     <tool>Eeschema 6.0.11+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -473,7 +473,7 @@
     </comp>
     <comp ref="D16">
       <value>SMBJ5.0A</value>
-      <footprint>Diode_SMD:D_SMB_Handsoldering</footprint>
+      <footprint>Diode_SMD:D_SMB</footprint>
       <fields>
         <field name="LCSC Part">C83333</field>
       </fields>

@@ -6161,7 +6161,7 @@
     (property "Value" "SMBJ5.0A" (id 1) (at 166.497 98.8572 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_SMD:D_SMB_Handsoldering" (id 2) (at 164.465 97.155 0)
+    (property "Footprint" "Diode_SMD:D_SMB" (id 2) (at 164.465 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 164.465 97.155 0)
@@ -8287,7 +8287,7 @@
       (reference "D15") (unit 1) (value "DSK34") (footprint "Diode_SMD:D_SOD-123F")
     )
     (path "/82f5e1e9-c90b-4377-acc7-0f0dca53f676"
-      (reference "D16") (unit 1) (value "SMBJ5.0A") (footprint "Diode_SMD:D_SMB_Handsoldering")
+      (reference "D16") (unit 1) (value "SMBJ5.0A") (footprint "Diode_SMD:D_SMB")
     )
     (path "/8fcfe28d-54bc-4c3b-9a6b-9f67b6b95c5f"
       (reference "D17") (unit 1) (value "BZT52C15T-7") (footprint "Diode_SMD:D_SOD-523")
