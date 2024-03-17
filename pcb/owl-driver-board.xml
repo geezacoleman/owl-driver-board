@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/blinken/co/owl-driver-board/pcb/owl-driver-board.kicad_sch</source>
-    <date>Sun 17 Mar 2024 11:08:26 GMT</date>
+    <date>Sun 17 Mar 2024 11:35:54 GMT</date>
     <tool>Eeschema 6.0.11+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -340,7 +340,7 @@
     </comp>
     <comp ref="D7">
       <value>SMBJ26A</value>
-      <footprint>Diode_SMD:D_SMB_Handsoldering</footprint>
+      <footprint>Diode_SMD:D_SMB</footprint>
       <datasheet>https://www.vishay.com/doc?85881</datasheet>
       <fields>
         <field name="LCSC Part">C315992</field>
@@ -354,118 +354,118 @@
       <tstamps>cab4bace-917f-4205-848a-b637a3d00fbf</tstamps>
     </comp>
     <comp ref="D8">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>83a54d0b-3399-4dd5-a062-72ec8937d6b4</tstamps>
     </comp>
     <comp ref="D9">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7ac83e35-dd55-4991-9fc8-604ff2c02ad9</tstamps>
     </comp>
     <comp ref="D10">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>daa67265-e8d2-4760-bd02-3cf160cd343e</tstamps>
     </comp>
     <comp ref="D11">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c03511fe-4c8f-429e-992c-41513b5ba727</tstamps>
     </comp>
     <comp ref="D12">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d1195582-f908-4a8a-a15b-792c1eb8e190</tstamps>
     </comp>
     <comp ref="D13">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>136db1ed-e5cf-4313-96fd-e185759c9f87</tstamps>
     </comp>
     <comp ref="D14">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d9554b1a-21fc-4a03-a973-a0ca223d327b</tstamps>
     </comp>
     <comp ref="D15">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -546,118 +546,118 @@
       <tstamps>014766a2-4507-46aa-8be7-b927a9a17956</tstamps>
     </comp>
     <comp ref="D21">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c62553b8-d754-4209-8287-d1b66b03469e</tstamps>
     </comp>
     <comp ref="D22">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b73a3f0d-fdb4-4d36-af09-9c7b9a6f0fa0</tstamps>
     </comp>
     <comp ref="D23">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1e420a52-b389-41d4-8e81-9db2a36740c0</tstamps>
     </comp>
     <comp ref="D24">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>11999565-1090-4d7f-bf72-f25ca61fce2e</tstamps>
     </comp>
     <comp ref="D25">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0c1c554d-c120-4c7f-9fc7-0bcda73be759</tstamps>
     </comp>
     <comp ref="D26">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
       <property name="Field4" value=""/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cff18c2f-d2a8-4293-8443-d39039d10adf</tstamps>
     </comp>
     <comp ref="D27">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3e19124a-9c0d-40b6-a5ed-7d5c5ee65c84</tstamps>
     </comp>
     <comp ref="D28">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -765,14 +765,14 @@
       <tstamps>1f10a014-518f-40bf-b15d-fa0dca9305cf</tstamps>
     </comp>
     <comp ref="D36">
-      <value>B340A</value>
+      <value>DSK34</value>
       <footprint>Diode_SMD:D_SOD-123F</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2307101649_MDD-Microdiode-Electronics--B340A_C64982.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C64982</field>
+        <field name="LCSC Part">C727076</field>
       </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
-      <property name="LCSC Part" value="C64982"/>
+      <property name="LCSC Part" value="C727076"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
