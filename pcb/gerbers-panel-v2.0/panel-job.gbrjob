@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "6.0.11+dfsg-1"
     },
-    "CreationDate": "2024-03-16T14:36:40+00:00"
+    "CreationDate": "2024-03-17T11:09:13+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,42 +34,42 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "panel-F_Cu.gtl",
+      "Path": "panel-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "panel-B_Cu.gbl",
+      "Path": "panel-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "panel-F_Paste.gtp",
+      "Path": "panel-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "panel-B_Paste.gbp",
+      "Path": "panel-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "panel-F_Silkscreen.gto",
+      "Path": "panel-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "panel-B_Silkscreen.gbo",
+      "Path": "panel-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "panel-F_Mask.gts",
+      "Path": "panel-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "panel-B_Mask.gbs",
+      "Path": "panel-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
@@ -79,7 +79,7 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "panel-Edge_Cuts.gm1",
+      "Path": "panel-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
