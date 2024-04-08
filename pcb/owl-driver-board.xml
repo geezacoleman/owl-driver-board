@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>/home/blinken/co/owl-driver-board/pcb/owl-driver-board.kicad_sch</source>
-    <date>Tue 19 Mar 2024 05:24:53 GMT</date>
+    <date>Mon 08 Apr 2024 11:40:36 BST</date>
     <tool>Eeschema 6.0.11+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title/>
+        <title>Open Weed Locator - Driver Board</title>
         <company/>
-        <rev/>
-        <date/>
+        <rev>2.1</rev>
+        <date>2024-04-06</date>
         <source>owl-driver-board.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
@@ -263,32 +263,32 @@
       <tstamps>fba16e1b-4498-4ac1-8f45-6d453647d935</tstamps>
     </comp>
     <comp ref="D2">
-      <value>BZT52C15T-7</value>
-      <footprint>Diode_SMD:D_SOD-523</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C15T-7_C460787.pdf</datasheet>
+      <value>BZT52C9V1TQ-7-F</value>
+      <footprint>misc:D_SOD-523_silkpolarity</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C9V1TQ-7-F_C526493.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C460787</field>
-        <field name="Note">15V Zener</field>
+        <field name="LCSC Part">C526493</field>
+        <field name="Note">9V Zener</field>
       </fields>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
-      <property name="LCSC Part" value="C460787"/>
-      <property name="Note" value="15V Zener"/>
+      <property name="LCSC Part" value="C526493"/>
+      <property name="Note" value="9V Zener"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>968e1c8f-53c5-410d-81bd-f45a7dad59c7</tstamps>
     </comp>
     <comp ref="D3">
-      <value>BZT52C15T-7</value>
-      <footprint>Diode_SMD:D_SOD-523</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C15T-7_C460787.pdf</datasheet>
+      <value>BZT52C9V1TQ-7-F</value>
+      <footprint>misc:D_SOD-523_silkpolarity</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C9V1TQ-7-F_C526493.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C460787</field>
-        <field name="Note">15V Zener</field>
+        <field name="LCSC Part">C526493</field>
+        <field name="Note">9V Zener</field>
       </fields>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
-      <property name="LCSC Part" value="C460787"/>
-      <property name="Note" value="15V Zener"/>
+      <property name="LCSC Part" value="C526493"/>
+      <property name="Note" value="9V Zener"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -323,16 +323,16 @@
       <tstamps>624df429-5cce-42bb-8a2e-1ef308e1ba1a</tstamps>
     </comp>
     <comp ref="D6">
-      <value>BZT52C15T-7</value>
-      <footprint>Diode_SMD:D_SOD-523</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C15T-7_C460787.pdf</datasheet>
+      <value>BZT52C9V1TQ-7-F</value>
+      <footprint>misc:D_SOD-523_silkpolarity</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C9V1TQ-7-F_C526493.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C460787</field>
-        <field name="Note">15V Zener</field>
+        <field name="LCSC Part">C526493</field>
+        <field name="Note">9V Zener</field>
       </fields>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
-      <property name="LCSC Part" value="C460787"/>
-      <property name="Note" value="15V Zener"/>
+      <property name="LCSC Part" value="C526493"/>
+      <property name="Note" value="9V Zener"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -340,7 +340,7 @@
     </comp>
     <comp ref="D7">
       <value>SMBJ26A</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
+      <footprint>misc:D_SMB_silkpolarity</footprint>
       <datasheet>https://www.vishay.com/doc?85881</datasheet>
       <fields>
         <field name="LCSC Part">C315992</field>
@@ -355,7 +355,7 @@
     </comp>
     <comp ref="D8">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -370,7 +370,7 @@
     </comp>
     <comp ref="D9">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -385,7 +385,7 @@
     </comp>
     <comp ref="D10">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -400,7 +400,7 @@
     </comp>
     <comp ref="D11">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -415,7 +415,7 @@
     </comp>
     <comp ref="D12">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -430,7 +430,7 @@
     </comp>
     <comp ref="D13">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -445,7 +445,7 @@
     </comp>
     <comp ref="D14">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -459,7 +459,7 @@
     </comp>
     <comp ref="D15">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -473,7 +473,7 @@
     </comp>
     <comp ref="D16">
       <value>SMBJ5.0A</value>
-      <footprint>Diode_SMD:D_SMB</footprint>
+      <footprint>misc:D_SMB_silkpolarity</footprint>
       <fields>
         <field name="LCSC Part">C83333</field>
       </fields>
@@ -486,32 +486,32 @@
       <tstamps>82f5e1e9-c90b-4377-acc7-0f0dca53f676</tstamps>
     </comp>
     <comp ref="D17">
-      <value>BZT52C15T-7</value>
-      <footprint>Diode_SMD:D_SOD-523</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C15T-7_C460787.pdf</datasheet>
+      <value>BZT52C9V1TQ-7-F</value>
+      <footprint>misc:D_SOD-523_silkpolarity</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C9V1TQ-7-F_C526493.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C460787</field>
-        <field name="Note">15V Zener</field>
+        <field name="LCSC Part">C526493</field>
+        <field name="Note">9V Zener</field>
       </fields>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
-      <property name="LCSC Part" value="C460787"/>
-      <property name="Note" value="15V Zener"/>
+      <property name="LCSC Part" value="C526493"/>
+      <property name="Note" value="9V Zener"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8fcfe28d-54bc-4c3b-9a6b-9f67b6b95c5f</tstamps>
     </comp>
     <comp ref="D18">
-      <value>BZT52C15T-7</value>
-      <footprint>Diode_SMD:D_SOD-523</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C15T-7_C460787.pdf</datasheet>
+      <value>BZT52C9V1TQ-7-F</value>
+      <footprint>misc:D_SOD-523_silkpolarity</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Diodes-Incorporated-BZT52C9V1TQ-7-F_C526493.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C460787</field>
-        <field name="Note">15V Zener</field>
+        <field name="LCSC Part">C526493</field>
+        <field name="Note">9V Zener</field>
       </fields>
       <libsource lib="Device" part="D_Zener" description="Zener diode"/>
-      <property name="LCSC Part" value="C460787"/>
-      <property name="Note" value="15V Zener"/>
+      <property name="LCSC Part" value="C526493"/>
+      <property name="Note" value="9V Zener"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -547,7 +547,7 @@
     </comp>
     <comp ref="D21">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -562,7 +562,7 @@
     </comp>
     <comp ref="D22">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -577,7 +577,7 @@
     </comp>
     <comp ref="D23">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -592,7 +592,7 @@
     </comp>
     <comp ref="D24">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -607,7 +607,7 @@
     </comp>
     <comp ref="D25">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -622,7 +622,7 @@
     </comp>
     <comp ref="D26">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -637,7 +637,7 @@
     </comp>
     <comp ref="D27">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -651,7 +651,7 @@
     </comp>
     <comp ref="D28">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -766,7 +766,7 @@
     </comp>
     <comp ref="D36">
       <value>DSK34</value>
-      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <footprint>misc:D_SOD-123F_silkpolarity</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_TWGMC-DSK34_C727076.pdf</datasheet>
       <fields>
         <field name="LCSC Part">C727076</field>
@@ -919,45 +919,45 @@
       <tstamps>7ae3106e-3915-44a7-847c-3b60a12b18be</tstamps>
     </comp>
     <comp ref="J3">
-      <value>~</value>
-      <footprint>misc:Connector_SpringClamp_XY115A-5.0-2P</footprint>
+      <value>1890963</value>
+      <footprint>misc:Connector_Phoenix-Contact_MKDSN_1890963_P5.0_2x</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Ningbo-Xinlaiya-Elec--XY115A-5-0-2P_C784935.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C784935</field>
+        <field name="LCSC Part">C3817236</field>
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value=""/>
-      <property name="LCSC Part" value="C784935"/>
+      <property name="LCSC Part" value="C3817236"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0d3f8cf9-6f57-474b-b237-8f681982edd6</tstamps>
     </comp>
     <comp ref="J4">
-      <value>~</value>
-      <footprint>misc:Connector_SpringClamp_XY115A-5.0-2P</footprint>
+      <value>1890963</value>
+      <footprint>misc:Connector_Phoenix-Contact_MKDSN_1890963_P5.0_2x</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Ningbo-Xinlaiya-Elec--XY115A-5-0-2P_C784935.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C784935</field>
+        <field name="LCSC Part">C3817236</field>
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value=""/>
-      <property name="LCSC Part" value="C784935"/>
+      <property name="LCSC Part" value="C3817236"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>11f3266b-3e2a-446e-8ba4-99d2e992fa6c</tstamps>
     </comp>
     <comp ref="J5">
-      <value>~</value>
-      <footprint>misc:Connector_SpringClamp_XY115A-5.0-2P</footprint>
+      <value>1890963</value>
+      <footprint>misc:Connector_Phoenix-Contact_MKDSN_1890963_P5.0_2x</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Ningbo-Xinlaiya-Elec--XY115A-5-0-2P_C784935.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C784935</field>
+        <field name="LCSC Part">C3817236</field>
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value=""/>
-      <property name="LCSC Part" value="C784935"/>
+      <property name="LCSC Part" value="C3817236"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -979,30 +979,30 @@
       <tstamps>1faebd07-e77c-4b25-bbe2-a8c5d91c4361</tstamps>
     </comp>
     <comp ref="J7">
-      <value>~</value>
-      <footprint>misc:Connector_SpringClamp_XY115A-5.0-2P</footprint>
+      <value>1890963</value>
+      <footprint>misc:Connector_Phoenix-Contact_MKDSN_1890963_P5.0_2x</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Ningbo-Xinlaiya-Elec--XY115A-5-0-2P_C784935.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C784935</field>
+        <field name="LCSC Part">C3817236</field>
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value=""/>
-      <property name="LCSC Part" value="C784935"/>
+      <property name="LCSC Part" value="C3817236"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1192fbb8-e7f9-4444-9d71-d988602578ec</tstamps>
     </comp>
     <comp ref="J8">
-      <value>~</value>
-      <footprint>misc:Connector_SpringClamp_XY115A-5.0-2P</footprint>
+      <value>1890963</value>
+      <footprint>misc:Connector_Phoenix-Contact_MKDSN_1890963_P5.0_2x</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2304140030_Ningbo-Xinlaiya-Elec--XY115A-5-0-2P_C784935.pdf</datasheet>
       <fields>
-        <field name="LCSC Part">C784935</field>
+        <field name="LCSC Part">C3817236</field>
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="LCSC" value=""/>
-      <property name="LCSC Part" value="C784935"/>
+      <property name="LCSC Part" value="C3817236"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1163,16 +1163,29 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9ea3b470-a350-449f-91b6-1fcc41325408</tstamps>
     </comp>
+    <comp ref="Q10">
+      <value>AGM60P85AP</value>
+      <footprint>misc:PDFN-8-3.3x3.3</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2309121403_AGM-Semi-AGM60P85AP_C17701049.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part">C17701049</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="SUD19P06-60" description="19A Id, 60V Vds, TrenchFET P-Channel Power MOSFET, 60mOhm Ron, 40nC Qg, -55 to 150 °C, TO-252-2"/>
+      <property name="LCSC Part" value="C17701049"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>489e63bb-8799-4191-877f-b5a2b2f0e37c</tstamps>
+    </comp>
     <comp ref="R1">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1180,32 +1193,30 @@
       <tstamps>0d1a2581-b61d-4db5-872d-9e973455813f</tstamps>
     </comp>
     <comp ref="R2">
-      <value>10k</value>
+      <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAJ0103T5E_C15401.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
-        <field name="LCSC Part">C15401</field>
+        <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
-      <property name="LCSC Part" value="C15401"/>
+      <property name="Field4" value=""/>
+      <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>26fe8fca-5c76-4923-b2d9-78e5f53b60f2</tstamps>
     </comp>
     <comp ref="R3">
-      <value>10k</value>
+      <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAJ0103T5E_C15401.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
-        <field name="LCSC Part">C15401</field>
+        <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
-      <property name="LCSC Part" value="C15401"/>
+      <property name="Field4" value=""/>
+      <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1216,11 +1227,10 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1232,11 +1242,10 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1296,11 +1305,10 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1312,11 +1320,10 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1356,32 +1363,30 @@
       <tstamps>0a93f660-124e-40e1-91c3-0405a6b7e6c6</tstamps>
     </comp>
     <comp ref="R13">
-      <value>10k</value>
+      <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAJ0103T5E_C15401.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
-        <field name="LCSC Part">C15401</field>
+        <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
-      <property name="LCSC Part" value="C15401"/>
+      <property name="Field4" value=""/>
+      <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>146b97b9-f719-4266-b4d3-97d05fd8535c</tstamps>
     </comp>
     <comp ref="R14">
-      <value>10k</value>
+      <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2206010216_UNI-ROYAL-Uniroyal-Elec-0603WAJ0103T5E_C15401.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
-        <field name="LCSC Part">C15401</field>
+        <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
-      <property name="LCSC Part" value="C15401"/>
+      <property name="Field4" value=""/>
+      <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1392,11 +1397,10 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1408,11 +1412,10 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1456,11 +1459,10 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1472,11 +1474,10 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1772,13 +1773,12 @@
     <comp ref="R39">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0603WAJ0471T5E_C25241.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -1788,13 +1788,12 @@
     <comp ref="R40">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2205311845_UNI-ROYAL-Uniroyal-Elec-0603WAJ0471T5E_C25241.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf</datasheet>
       <fields>
-        <field name="Field4"> </field>
         <field name="LCSC Part">C21190</field>
       </fields>
       <libsource lib="SparkFun-Resistors" part="RESISTOR0805" description="Generic Resistor Package"/>
-      <property name="Field4" value=" "/>
+      <property name="Field4" value=""/>
       <property name="LCSC Part" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
@@ -2111,26 +2110,6 @@
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="SparkFun-Connectors" part="CONN_03X2NO_SILK">
-      <description>Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections   &lt;b&gt;You can populate with any combo of single row headers, but if you'd like an exact match, check these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/12807"&gt; Header - 2x3 (Male, 0.1")&lt;/a&gt; (PRT-12807)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/13010"&gt; Header - 2x3 (Female, 0.1")&lt;/a&gt; (PRT-13010)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10877"&gt; 2x3 Pin Shrouded Header&lt;/a&gt; (PRT-10877)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;On any of the 0.1 inch spaced packages, you can populate with these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/116"&gt; Break Away Headers - Straight&lt;/a&gt; (PRT-00116)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/553"&gt; Break Away Male Headers - Right Angle&lt;/a&gt; (PRT-00553)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/115"&gt; Female Headers&lt;/a&gt; (PRT-00115)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/117"&gt; Break Away Headers - Machine Pin&lt;/a&gt; (PRT-00117)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/743"&gt; Break Away Female Headers - Swiss Machine Pin&lt;/a&gt; (PRT-00743)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;Special note: the shrouded connector mates well with our 3x2 ribbon cables:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10651"&gt; Ribbon Crimp Connector - 6-pin (2x3, Female)&lt;/a&gt; (PRT-10651)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10646"&gt; Ribbon Cable - 6 wire (15ft)&lt;/a&gt; (PRT-10646)&lt;/li&gt;&lt;/ul&gt;</description>
-      <footprints>
-        <fp>*2X3-NS*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">CONN_03X2NO_SILK</field>
-        <field name="Footprint">2X3-NS</field>
-        <field name="Field4">XXX-00000</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="bidirectional"/>
-        <pin num="2" name="2" type="bidirectional"/>
-        <pin num="3" name="3" type="bidirectional"/>
-        <pin num="4" name="4" type="bidirectional"/>
-        <pin num="5" name="5" type="bidirectional"/>
-        <pin num="6" name="6" type="bidirectional"/>
-      </pins>
-    </libpart>
     <libpart lib="SparkFun-Connectors" part="CONN_04">
       <description>Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections  &lt;b&gt;On any of the 0.1 inch spaced packages, you can populate with these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/116"&gt; Break Away Headers - Straight&lt;/a&gt; (PRT-00116)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/553"&gt; Break Away Male Headers - Right Angle&lt;/a&gt; (PRT-00553)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/115"&gt; Female Headers&lt;/a&gt; (PRT-00115)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/117"&gt; Break Away Headers - Machine Pin&lt;/a&gt; (PRT-00117)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/743"&gt; Break Away Female Headers - Swiss Machine Pin&lt;/a&gt; (PRT-00743)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt; For SCREWTERMINALS and SPRING TERMINALS visit here:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/search/results?term=Screw+Terminals"&gt; Screw Terimnals on SparkFun.com&lt;/a&gt; (5mm/3.5mm/2.54mm spacing)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/11375"&gt; Hook-Up Wire - Assortment (Stranded, 22 AWG)&lt;/a&gt; (PRT-11375)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/11367"&gt; Hook-Up Wire - Assortment (Solid Core, 22 AWG)&lt;/a&gt; (PRT-11367)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/categories/141"&gt; View the entire wire category on our website here&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;b&gt;Special notes:&lt;/b&gt;   Molex polarized connector foot print use with SKU : PRT-08231 with associated crimp pins and housings. 1MM SMD Version SKU: PRT-10208</description>
       <footprints>
@@ -2343,7 +2322,63 @@
       <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="FEEDBACK" pintype="passive"/>
     </net>
-    <net code="3" name="GND">
+    <net code="3" name="/M1_D">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/M1_G">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/M2_D">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F4" pin="1" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="/M2_G">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="/M3_D">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F3" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/M3_G">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/M4_D">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="F5" pin="1" pintype="passive"/>
+      <node ref="Q7" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="/M4_G">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q7" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="11" name="/PI_5V0_P">
+      <node ref="J9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q10" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="12" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C11" pin="2" pintype="passive"/>
@@ -2393,6 +2428,7 @@
       <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q10" pin="1" pinfunction="G" pintype="input"/>
       <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
       <node ref="Q5" pin="2" pinfunction="S" pintype="passive"/>
       <node ref="Q8" pin="2" pinfunction="S" pintype="passive"/>
@@ -2416,95 +2452,69 @@
       <node ref="U1" pin="8" pinfunction="GND" pintype="passive"/>
       <node ref="U2" pin="14" pinfunction="VSS" pintype="power_in"/>
     </net>
-    <net code="4" name="I2C_SCL">
+    <net code="13" name="I2C_SCL">
       <node ref="J2" pin="5" pinfunction="SCL" pintype="bidirectional"/>
       <node ref="U2" pin="26" pinfunction="SCL" pintype="input"/>
     </net>
-    <net code="5" name="I2C_SDA">
+    <net code="14" name="I2C_SDA">
       <node ref="J2" pin="3" pinfunction="SDA" pintype="bidirectional"/>
       <node ref="U2" pin="27" pinfunction="SDA" pintype="bidirectional"/>
     </net>
-    <net code="6" name="INPUT1">
+    <net code="15" name="INPUT1">
       <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R24" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="7" name="INPUT2">
+    <net code="16" name="INPUT2">
       <node ref="J6" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="R25" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="8" name="INPUT3">
+    <net code="17" name="INPUT3">
       <node ref="J6" pin="5" pinfunction="5" pintype="passive"/>
       <node ref="R26" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="9" name="INPUT4">
+    <net code="18" name="INPUT4">
       <node ref="J6" pin="7" pinfunction="7" pintype="passive"/>
       <node ref="R27" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="10" name="MOSFET1">
+    <net code="19" name="MOSFET1">
       <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R9" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="11" name="MOSFET2">
+    <net code="20" name="MOSFET2">
       <node ref="J6" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="R19" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="12" name="MOSFET3">
+    <net code="21" name="MOSFET3">
       <node ref="J6" pin="6" pinfunction="6" pintype="passive"/>
       <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="13" name="MOSFET4">
+    <net code="22" name="MOSFET4">
       <node ref="J6" pin="8" pinfunction="8" pintype="passive"/>
       <node ref="R20" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="14" name="Net-(D1-Pad1)">
+    <net code="23" name="Net-(D1-Pad1)">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F1" pin="2" pintype="passive"/>
       <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
     </net>
-    <net code="15" name="Net-(D1-Pad2)">
+    <net code="24" name="Net-(D1-Pad2)">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="16" name="Net-(D2-Pad2)">
-      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="R6" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="17" name="Net-(D3-Pad2)">
-      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Q3" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="R7" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="18" name="Net-(D4-Pad2)">
+    <net code="25" name="Net-(D4-Pad2)">
       <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="19" name="Net-(D5-Pad2)">
+    <net code="26" name="Net-(D5-Pad2)">
       <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(D6-Pad2)">
+    <net code="27" name="Net-(D6-Pad2)">
       <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
       <node ref="R8" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="21" name="Net-(D10-Pad1)">
-      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="F2" pin="1" pintype="passive"/>
-      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="22" name="Net-(D11-Pad1)">
-      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="F3" pin="1" pintype="passive"/>
-      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="23" name="Net-(D12-Pad2)">
+    <net code="28" name="Net-(D12-Pad2)">
       <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
@@ -2512,7 +2522,7 @@
       <node ref="R11" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R9" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="24" name="Net-(D13-Pad2)">
+    <net code="29" name="Net-(D13-Pad2)">
       <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
@@ -2520,41 +2530,15 @@
       <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R12" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="25" name="Net-(D17-Pad2)">
-      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Q6" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R13" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="R17" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="26" name="Net-(D18-Pad2)">
-      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Q7" pin="1" pinfunction="G" pintype="input"/>
-      <node ref="R14" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="27" name="Net-(D19-Pad2)">
+    <net code="30" name="Net-(D19-Pad2)">
       <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R15" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="28" name="Net-(D20-Pad2)">
+    <net code="31" name="Net-(D20-Pad2)">
       <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R16" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="29" name="Net-(D21-Pad2)">
-      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="F4" pin="1" pintype="passive"/>
-      <node ref="Q6" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="30" name="Net-(D22-Pad2)">
-      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="F5" pin="1" pintype="passive"/>
-      <node ref="Q7" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="R16" pin="2" pinfunction="2" pintype="passive"/>
-    </net>
-    <net code="31" name="Net-(D25-Pad2)">
+    <net code="32" name="Net-(D25-Pad2)">
       <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
@@ -2562,7 +2546,7 @@
       <node ref="R19" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R21" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="32" name="Net-(D26-Pad2)">
+    <net code="33" name="Net-(D26-Pad2)">
       <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
@@ -2570,149 +2554,149 @@
       <node ref="R20" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R22" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="33" name="Net-(D32-Pad1)">
+    <net code="34" name="Net-(D32-Pad1)">
       <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R27" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U2" pin="9" pinfunction="LED3" pintype="output"/>
     </net>
-    <net code="34" name="Net-(D32-Pad2)">
+    <net code="35" name="Net-(D32-Pad2)">
       <node ref="D32" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="R26" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U2" pin="8" pinfunction="LED2" pintype="output"/>
     </net>
-    <net code="35" name="Net-(D33-Pad1)">
+    <net code="36" name="Net-(D33-Pad1)">
       <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R25" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U2" pin="7" pinfunction="LED1" pintype="output"/>
     </net>
-    <net code="36" name="Net-(D33-Pad2)">
+    <net code="37" name="Net-(D33-Pad2)">
       <node ref="D33" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="R24" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U2" pin="6" pinfunction="LED0" pintype="output"/>
     </net>
-    <net code="37" name="Net-(D34-Pad1)">
+    <net code="38" name="Net-(D34-Pad1)">
       <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J2" pin="13" pinfunction="GP27" pintype="bidirectional"/>
       <node ref="R38" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="38" name="Net-(D34-Pad2)">
+    <net code="39" name="Net-(D34-Pad2)">
       <node ref="D34" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="J2" pin="18" pinfunction="GP24" pintype="bidirectional"/>
       <node ref="R31" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="39" name="Net-(D35-Pad1)">
+    <net code="40" name="Net-(D35-Pad1)">
       <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="J2" pin="16" pinfunction="GP23" pintype="bidirectional"/>
       <node ref="R30" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="40" name="Net-(D35-Pad2)">
+    <net code="41" name="Net-(D35-Pad2)">
       <node ref="D35" pin="2" pinfunction="K" pintype="passive"/>
       <node ref="J2" pin="15" pinfunction="GP22" pintype="bidirectional"/>
       <node ref="R29" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="41" name="Net-(D36-Pad1)">
+    <net code="42" name="Net-(D36-Pad1)">
       <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="OUTPUT" pintype="power_out"/>
     </net>
-    <net code="42" name="Net-(D38-Pad2)">
+    <net code="43" name="Net-(D38-Pad2)">
       <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R23" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="43" name="Net-(JP1-Pad2)">
+    <net code="44" name="Net-(JP1-Pad2)">
       <node ref="R37" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U2" pin="1" pinfunction="A0" pintype="input"/>
     </net>
-    <net code="44" name="Net-(JP2-Pad2)">
+    <net code="45" name="Net-(JP2-Pad2)">
       <node ref="R36" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U2" pin="2" pinfunction="A1" pintype="input"/>
     </net>
-    <net code="45" name="Net-(JP3-Pad2)">
+    <net code="46" name="Net-(JP3-Pad2)">
       <node ref="R35" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U2" pin="3" pinfunction="A2" pintype="input"/>
     </net>
-    <net code="46" name="Net-(JP4-Pad2)">
+    <net code="47" name="Net-(JP4-Pad2)">
       <node ref="R34" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U2" pin="4" pinfunction="A3" pintype="input"/>
     </net>
-    <net code="47" name="Net-(JP5-Pad2)">
+    <net code="48" name="Net-(JP5-Pad2)">
       <node ref="R33" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U2" pin="5" pinfunction="A4" pintype="input"/>
     </net>
-    <net code="48" name="Net-(JP6-Pad2)">
+    <net code="49" name="Net-(JP6-Pad2)">
       <node ref="R32" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U2" pin="24" pinfunction="A5" pintype="input"/>
     </net>
-    <net code="49" name="Net-(JP7-Pad2)">
+    <net code="50" name="Net-(JP7-Pad2)">
       <node ref="R39" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="50" name="Net-(JP8-Pad2)">
+    <net code="51" name="Net-(JP8-Pad2)">
       <node ref="R40" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="51" name="Net-(Q4-Pad3)">
+    <net code="52" name="Net-(Q4-Pad3)">
       <node ref="Q4" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="52" name="Net-(Q5-Pad3)">
+    <net code="53" name="Net-(Q5-Pad3)">
       <node ref="Q5" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R7" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="53" name="Net-(Q8-Pad3)">
+    <net code="54" name="Net-(Q8-Pad3)">
       <node ref="Q8" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R17" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="54" name="Net-(Q9-Pad3)">
+    <net code="55" name="Net-(Q9-Pad3)">
       <node ref="Q9" pin="3" pinfunction="D" pintype="passive"/>
       <node ref="R18" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="55" name="OE">
+    <net code="56" name="OE">
       <node ref="J2" pin="22" pinfunction="GP25" pintype="bidirectional"/>
       <node ref="R28" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U2" pin="23" pinfunction="~{OE}" pintype="input"/>
     </net>
-    <net code="56" name="OUT1">
+    <net code="57" name="OUT1">
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F2" pin="2" pintype="passive"/>
       <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="57" name="OUT2">
+    <net code="58" name="OUT2">
       <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F4" pin="2" pintype="passive"/>
       <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="58" name="OUT3">
+    <net code="59" name="OUT3">
       <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F3" pin="2" pintype="passive"/>
       <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="59" name="OUT4">
+    <net code="60" name="OUT4">
       <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F5" pin="2" pintype="passive"/>
       <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="60" name="PI1">
+    <net code="61" name="PI1">
       <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="R38" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="61" name="PI2">
+    <net code="62" name="PI2">
       <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="R29" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="62" name="PI3">
+    <net code="63" name="PI3">
       <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R30" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="63" name="PI4">
+    <net code="64" name="PI4">
       <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R31" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="64" name="PI_5V0">
+    <net code="65" name="PI_5V0">
       <node ref="C10" pin="1" pintype="passive"/>
       <node ref="J2" pin="2" pinfunction="5V" pintype="power_in"/>
       <node ref="J2" pin="4" pinfunction="5V" pintype="power_in"/>
-      <node ref="J9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q10" pin="2" pinfunction="D" pintype="passive"/>
     </net>
-    <net code="65" name="VCC">
+    <net code="66" name="VCC">
       <node ref="C1" pin="1" pintype="passive"/>
       <node ref="C11" pin="1" pintype="passive"/>
       <node ref="C12" pin="1" pintype="passive"/>
@@ -2739,10 +2723,10 @@
       <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="Q2" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="Q3" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="Q6" pin="2" pinfunction="D" pintype="passive"/>
-      <node ref="Q7" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="S" pintype="passive"/>
       <node ref="R13" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R14" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
@@ -2750,114 +2734,114 @@
       <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="1" pinfunction="VIN" pintype="power_in"/>
     </net>
-    <net code="66" name="VIN">
+    <net code="67" name="VIN">
       <node ref="F1" pin="1" pintype="passive"/>
       <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
-    <net code="67" name="unconnected-(J2-Pad7)">
+    <net code="68" name="unconnected-(J2-Pad7)">
       <node ref="J2" pin="7" pinfunction="GP4" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="68" name="unconnected-(J2-Pad8)">
+    <net code="69" name="unconnected-(J2-Pad8)">
       <node ref="J2" pin="8" pinfunction="TXO" pintype="output+no_connect"/>
     </net>
-    <net code="69" name="unconnected-(J2-Pad10)">
+    <net code="70" name="unconnected-(J2-Pad10)">
       <node ref="J2" pin="10" pinfunction="RXI" pintype="input+no_connect"/>
     </net>
-    <net code="70" name="unconnected-(J2-Pad11)">
+    <net code="71" name="unconnected-(J2-Pad11)">
       <node ref="J2" pin="11" pinfunction="GP17" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="71" name="unconnected-(J2-Pad12)">
+    <net code="72" name="unconnected-(J2-Pad12)">
       <node ref="J2" pin="12" pinfunction="GP18#" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="72" name="unconnected-(J2-Pad17)">
+    <net code="73" name="unconnected-(J2-Pad17)">
       <node ref="J2" pin="17" pinfunction="3.3V" pintype="power_in+no_connect"/>
     </net>
-    <net code="73" name="unconnected-(J2-Pad19)">
+    <net code="74" name="unconnected-(J2-Pad19)">
       <node ref="J2" pin="19" pinfunction="MOSI" pintype="output+no_connect"/>
     </net>
-    <net code="74" name="unconnected-(J2-Pad21)">
+    <net code="75" name="unconnected-(J2-Pad21)">
       <node ref="J2" pin="21" pinfunction="MISO" pintype="input+no_connect"/>
     </net>
-    <net code="75" name="unconnected-(J2-Pad23)">
+    <net code="76" name="unconnected-(J2-Pad23)">
       <node ref="J2" pin="23" pinfunction="SCLK" pintype="output+no_connect"/>
     </net>
-    <net code="76" name="unconnected-(J2-Pad24)">
+    <net code="77" name="unconnected-(J2-Pad24)">
       <node ref="J2" pin="24" pinfunction="CE0" pintype="output+no_connect"/>
     </net>
-    <net code="77" name="unconnected-(J2-Pad26)">
+    <net code="78" name="unconnected-(J2-Pad26)">
       <node ref="J2" pin="26" pinfunction="CE1" pintype="output+no_connect"/>
     </net>
-    <net code="78" name="unconnected-(J2-Pad27)">
+    <net code="79" name="unconnected-(J2-Pad27)">
       <node ref="J2" pin="27" pinfunction="ID_SD" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="79" name="unconnected-(J2-Pad28)">
+    <net code="80" name="unconnected-(J2-Pad28)">
       <node ref="J2" pin="28" pinfunction="ID_SC" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="80" name="unconnected-(J2-Pad29)">
+    <net code="81" name="unconnected-(J2-Pad29)">
       <node ref="J2" pin="29" pinfunction="GP5" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="81" name="unconnected-(J2-Pad31)">
+    <net code="82" name="unconnected-(J2-Pad31)">
       <node ref="J2" pin="31" pinfunction="GP6" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="82" name="unconnected-(J2-Pad32)">
+    <net code="83" name="unconnected-(J2-Pad32)">
       <node ref="J2" pin="32" pinfunction="GP12" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="83" name="unconnected-(J2-Pad33)">
+    <net code="84" name="unconnected-(J2-Pad33)">
       <node ref="J2" pin="33" pinfunction="GP13" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="84" name="unconnected-(J2-Pad35)">
+    <net code="85" name="unconnected-(J2-Pad35)">
       <node ref="J2" pin="35" pinfunction="GP19" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="85" name="unconnected-(J2-Pad36)">
+    <net code="86" name="unconnected-(J2-Pad36)">
       <node ref="J2" pin="36" pinfunction="GP16" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="86" name="unconnected-(J2-Pad37)">
+    <net code="87" name="unconnected-(J2-Pad37)">
       <node ref="J2" pin="37" pinfunction="GP26" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="87" name="unconnected-(J2-Pad38)">
+    <net code="88" name="unconnected-(J2-Pad38)">
       <node ref="J2" pin="38" pinfunction="GP20" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="88" name="unconnected-(J2-Pad40)">
+    <net code="89" name="unconnected-(J2-Pad40)">
       <node ref="J2" pin="40" pinfunction="GP21" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="91" name="unconnected-(U2-Pad10)">
+    <net code="90" name="unconnected-(U2-Pad10)">
       <node ref="U2" pin="10" pinfunction="LED4" pintype="output+no_connect"/>
     </net>
-    <net code="92" name="unconnected-(U2-Pad11)">
+    <net code="91" name="unconnected-(U2-Pad11)">
       <node ref="U2" pin="11" pinfunction="LED5" pintype="output+no_connect"/>
     </net>
-    <net code="93" name="unconnected-(U2-Pad12)">
+    <net code="92" name="unconnected-(U2-Pad12)">
       <node ref="U2" pin="12" pinfunction="LED6" pintype="output+no_connect"/>
     </net>
-    <net code="94" name="unconnected-(U2-Pad13)">
+    <net code="93" name="unconnected-(U2-Pad13)">
       <node ref="U2" pin="13" pinfunction="LED7" pintype="output+no_connect"/>
     </net>
-    <net code="95" name="unconnected-(U2-Pad15)">
+    <net code="94" name="unconnected-(U2-Pad15)">
       <node ref="U2" pin="15" pinfunction="LED8" pintype="output+no_connect"/>
     </net>
-    <net code="96" name="unconnected-(U2-Pad16)">
+    <net code="95" name="unconnected-(U2-Pad16)">
       <node ref="U2" pin="16" pinfunction="LED9" pintype="output+no_connect"/>
     </net>
-    <net code="97" name="unconnected-(U2-Pad17)">
+    <net code="96" name="unconnected-(U2-Pad17)">
       <node ref="U2" pin="17" pinfunction="LED10" pintype="output+no_connect"/>
     </net>
-    <net code="98" name="unconnected-(U2-Pad18)">
+    <net code="97" name="unconnected-(U2-Pad18)">
       <node ref="U2" pin="18" pinfunction="LED11" pintype="output+no_connect"/>
     </net>
-    <net code="99" name="unconnected-(U2-Pad19)">
+    <net code="98" name="unconnected-(U2-Pad19)">
       <node ref="U2" pin="19" pinfunction="LED12" pintype="output+no_connect"/>
     </net>
-    <net code="100" name="unconnected-(U2-Pad20)">
+    <net code="99" name="unconnected-(U2-Pad20)">
       <node ref="U2" pin="20" pinfunction="LED13" pintype="output+no_connect"/>
     </net>
-    <net code="101" name="unconnected-(U2-Pad21)">
+    <net code="100" name="unconnected-(U2-Pad21)">
       <node ref="U2" pin="21" pinfunction="LED14" pintype="output+no_connect"/>
     </net>
-    <net code="102" name="unconnected-(U2-Pad22)">
+    <net code="101" name="unconnected-(U2-Pad22)">
       <node ref="U2" pin="22" pinfunction="LED15" pintype="output+no_connect"/>
     </net>
-    <net code="103" name="unconnected-(U2-Pad25)">
+    <net code="102" name="unconnected-(U2-Pad25)">
       <node ref="U2" pin="25" pinfunction="EXTCLK" pintype="input+no_connect"/>
     </net>
   </nets>
