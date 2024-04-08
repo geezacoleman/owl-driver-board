@@ -381,9 +381,14 @@
     (pad "40" thru_hole oval locked (at 1.27 24.13 90) (size 1.7272 1.7272) (drill 1.016) (layers *.Cu *.Mask)
       (net 44 "unconnected-(J2-Pad40)") (pinfunction "GP21") (pintype "bidirectional+no_connect") (tstamp 7966cd99-b37c-42c7-94d6-2c78cfd694b8))
     (model "Pin_Headers.3dshapes/Pin_Header_Straight_2x20.wrl"
-      (offset (xyz 1.269999981 -24.12999964 0))
+      (offset (xyz 1.27 -24.13 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
+    )
+    (model "/home/blinken/Downloads/RaspberryPi5.step"
+      (offset (xyz -24.5 -10 -12))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 90))
     )
   )
 
