@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/blinken/co/owl-driver-board/pcb/owl-driver-board.kicad_sch</source>
-    <date>Sun 28 Apr 2024 21:26:40 BST</date>
+    <date>Mon 29 Apr 2024 12:09:14 BST</date>
     <tool>Eeschema 6.0.11+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2263,7 +2263,7 @@
     <comp ref="SW1">
       <value>SW_Coded_SH-7050</value>
       <footprint>misc:Diptronics-Rotary-Switch-R7M3-16RA-V</footprint>
-      <datasheet>https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2004221632_Diptronics-R7M3-16RA-V-T-R_C501563.pdf</datasheet>
       <fields>
         <field name="LCSC">C501563</field>
         <field name="Part">R7M3-16RA-V-T/R</field>
@@ -2311,7 +2311,7 @@
     <comp ref="U3">
       <value>LM73100</value>
       <footprint>misc:LM73100-QFN10</footprint>
-      <datasheet>https://www.ti.com/lit/ds/symlink/tps54560b.pdf</datasheet>
+      <datasheet>https://www.ti.com/lit/ds/symlink/lm7310.pdf</datasheet>
       <fields>
         <field name="LCSC">C3210761</field>
         <field name="Part">LM73100RPWR</field>

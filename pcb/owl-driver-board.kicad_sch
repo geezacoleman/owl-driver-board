@@ -7671,7 +7671,7 @@
     (property "Footprint" "misc:LM73100-QFN10" (id 2) (at 209.55 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps54560b.pdf" (id 3) (at 209.55 158.115 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/lm7310.pdf" (id 3) (at 209.55 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC" "C3210761" (id 4) (at 209.55 160.655 0)
