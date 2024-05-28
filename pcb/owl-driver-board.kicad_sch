@@ -27028,7 +27028,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SS10200B"
+		(property "Value" "PDS1040L-13"
 			(at 162.56 117.2003 90)
 			(effects
 				(font
@@ -27038,7 +27038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "misc:D_SMB_silkpolarity"
+		(property "Footprint" "Diode_SMD:D_PowerDI-5"
 			(at 169.545 118.745 0)
 			(effects
 				(font
@@ -27047,7 +27047,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2111232030_ZHIDE-SS10200B_C2917886.pdf"
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1804140121_Diodes-Incorporated-PDS1040L-13_C154714.pdf"
 			(at 164.465 118.745 0)
 			(effects
 				(font
@@ -27065,7 +27065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "SS10200B"
+		(property "Part" "PDS1040L-13"
 			(at 164.465 118.745 90)
 			(effects
 				(font
@@ -27074,7 +27074,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2917886"
+		(property "LCSC" "C154714"
 			(at 164.465 118.745 0)
 			(effects
 				(font
