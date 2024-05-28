@@ -11857,24 +11857,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 472.6193 192.024 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434431"
-			(at 474.98 193.675 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C434431"
 			(at 474.98 193.675 0)
 			(effects
@@ -11943,23 +11925,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 360.68 339.725 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 362.7867 339.725 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C15401"
 			(at 360.68 339.725 0)
 			(effects
 				(font
@@ -12044,23 +12009,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 466.09 191.5683 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 466.09 193.675 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 466.09 193.675 0)
 			(effects
@@ -12129,23 +12077,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 403.225 217.805 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 403.225 215.6983 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C21190"
 			(at 403.225 217.805 0)
 			(effects
 				(font
@@ -12362,23 +12293,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 460.375 297.3817 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C25241"
-			(at 460.375 295.275 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C25241"
 			(at 460.375 295.275 0)
 			(effects
@@ -12450,24 +12364,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 108.585 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 110.236 76.4891 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C15401"
 			(at 108.585 73.66 0)
 			(effects
 				(font
@@ -12626,24 +12522,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 427.736 155.2291 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C15401"
-			(at 426.085 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C15401"
 			(at 426.085 152.4 0)
 			(effects
@@ -12724,25 +12602,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 302.26 211.1659 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
-			(at 304.165 213.995 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 304.165 213.995 0)
 			(effects
@@ -12811,23 +12670,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 85.725 50.165 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 85.725 48.0583 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C21190"
 			(at 85.725 50.165 0)
 			(effects
 				(font
@@ -12925,15 +12767,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C3817236"
-			(at 544.195 128.905 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ba7bec9c-37db-4bf6-bec4-9b507412c342")
 		)
@@ -12995,15 +12828,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 194.945 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C16133"
 			(at 194.945 119.38 0)
 			(effects
 				(font
@@ -13154,23 +12978,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 466.09 121.0833 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 466.09 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 466.09 123.19 0)
 			(effects
@@ -13260,15 +13067,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C3817236"
-			(at 544.195 182.245 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "9e059548-c7d9-46c8-8af7-37ab4949576d")
 		)
@@ -13331,25 +13129,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 452.755 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 450.85 202.9109 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
 			(at 452.755 205.74 0)
 			(effects
 				(font
@@ -13447,15 +13226,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C3817236"
-			(at 544.195 146.685 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e0a27e74-e0c3-4282-831e-f847c530e62b")
 		)
@@ -13515,23 +13285,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 460.375 300.355 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 460.375 302.4617 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C25241"
 			(at 460.375 300.355 0)
 			(effects
 				(font
@@ -13685,15 +13438,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C17701049"
-			(at 108.585 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C17701049"
 			(at 108.585 60.96 0)
 			(effects
@@ -13777,25 +13521,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 415.29 140.6809 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
-			(at 417.195 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 417.195 143.51 0)
 			(effects
@@ -13838,7 +13563,7 @@
 				)
 			)
 		)
-		(property "Value" "165k"
+		(property "Value" "360k"
 			(at 191.77 166.37 0)
 			(effects
 				(font
@@ -13961,24 +13686,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 324.866 189.5191 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 323.215 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 323.215 186.69 0)
 			(effects
@@ -14050,15 +13757,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 295.91 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434435"
 			(at 295.91 151.13 0)
 			(effects
 				(font
@@ -14212,15 +13910,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C403725"
-			(at 147.955 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part" "GRM31CR61E476ME44L"
 			(at 147.955 62.23 0)
 			(effects
@@ -14309,25 +13998,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 337.82 202.9109 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
-			(at 339.725 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 339.725 205.74 0)
 			(effects
@@ -14399,24 +14069,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 233.045 351.155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS Part" ""
-			(at 233.045 351.155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C968007"
 			(at 233.045 351.155 0)
 			(effects
 				(font
@@ -14498,24 +14150,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 194.945 274.955 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 194.945 268.7843 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C358693"
 			(at 194.945 274.955 0)
 			(effects
 				(font
@@ -14840,24 +14474,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 391.16 309.88 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "LCSC Part" "C15401"
-			(at 393.065 306.705 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C15401"
 			(at 393.065 306.705 0)
 			(effects
@@ -14929,15 +14545,6 @@
 		)
 		(property "Description" ""
 			(at 426.72 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C526493"
-			(at 426.72 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15025,15 +14632,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 193.04 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 193.04 62.23 0)
 			(effects
 				(font
@@ -15197,24 +14795,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 324.866 119.0341 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 323.215 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 323.215 116.205 0)
 			(effects
@@ -15360,24 +14940,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 437.896 137.4491 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C25241"
-			(at 436.245 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C25241"
 			(at 436.245 134.62 0)
 			(effects
@@ -15461,15 +15023,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "LCSC Part" "C207087"
-			(at 469.9 201.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(property "LCSC" "C207087"
@@ -15628,15 +15181,6 @@
 		)
 		(property "Part" "0603WAF1402T5E"
 			(at 121.92 125.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C22803"
-			(at 121.92 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15812,16 +15356,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C727076"
-			(at 414.3659 153.035 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 417.195 151.13 0)
 			(effects
@@ -15890,23 +15424,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 246.38 337.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 246.38 339.9267 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C25241"
 			(at 246.38 337.82 0)
 			(effects
 				(font
@@ -16070,15 +15587,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C3817236"
-			(at 544.195 164.465 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "ef34d2a6-a993-49d4-99a6-16db7bc35814")
 		)
@@ -16144,15 +15652,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 442.595 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C17701049"
 			(at 442.595 125.095 0)
 			(effects
 				(font
@@ -16243,15 +15742,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C21190"
-			(at 203.2 64.135 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 203.2 64.135 0)
 			(effects
@@ -16320,23 +15810,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 379.73 339.725 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 381.8367 339.725 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C15401"
 			(at 379.73 339.725 0)
 			(effects
 				(font
@@ -16513,16 +15986,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C727076"
-			(at 302.26 218.7859 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 304.165 221.615 0)
 			(effects
@@ -16596,15 +16059,6 @@
 		)
 		(property "Description" ""
 			(at 117.475 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C526493"
-			(at 117.475 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16901,15 +16355,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C17701049"
-			(at 442.595 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C17701049"
 			(at 442.595 195.58 0)
 			(effects
@@ -16993,16 +16438,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C727076"
-			(at 415.29 218.7859 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 417.195 221.615 0)
 			(effects
@@ -17073,15 +16508,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 165.1 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 165.1 298.45 0)
 			(effects
 				(font
@@ -17305,15 +16731,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 329.565 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C17701049"
 			(at 329.565 195.58 0)
 			(effects
 				(font
@@ -17604,24 +17021,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 437.896 189.5191 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 436.245 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 436.245 186.69 0)
 			(effects
@@ -17692,24 +17091,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 361.95 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 359.5893 121.539 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434431"
 			(at 361.95 123.19 0)
 			(effects
 				(font
@@ -17790,15 +17171,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 410.845 310.515 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C2678753"
 			(at 410.845 310.515 0)
 			(effects
 				(font
@@ -18040,15 +17412,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C3817236"
-			(at 544.195 200.025 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "e1a901a6-7db6-46c2-9444-32c87a22bfb6")
 		)
@@ -18111,15 +17474,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 410.845 221.615 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434435"
 			(at 410.845 221.615 0)
 			(effects
 				(font
@@ -18198,15 +17552,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 128.905 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 128.905 62.23 0)
 			(effects
 				(font
@@ -18432,23 +17777,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 402.59 145.2133 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 402.59 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 402.59 147.32 0)
 			(effects
@@ -18532,15 +17860,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "LCSC Part" "C207087"
-			(at 469.9 131.445 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(property "LCSC" "C207087"
@@ -18819,24 +18138,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 473.329 125.5507 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434431"
-			(at 474.98 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C434431"
 			(at 474.98 123.19 0)
 			(effects
@@ -18908,15 +18209,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 320.675 217.805 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C8545"
 			(at 320.675 217.805 0)
 			(effects
 				(font
@@ -18999,24 +18291,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 367.03 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 368.681 286.0391 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C21190"
 			(at 367.03 283.21 0)
 			(effects
 				(font
@@ -19170,24 +18444,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 314.706 155.2291 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C15401"
-			(at 313.055 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C15401"
 			(at 313.055 152.4 0)
 			(effects
@@ -19256,23 +18512,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 246.38 342.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 246.38 345.0067 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C25241"
 			(at 246.38 342.9 0)
 			(effects
 				(font
@@ -19358,15 +18597,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C14663"
-			(at 164.465 106.045 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C14663"
 			(at 164.465 106.045 0)
 			(effects
@@ -19438,15 +18668,6 @@
 		)
 		(property "Description" ""
 			(at 426.72 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C526493"
-			(at 426.72 116.205 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19605,23 +18826,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 378.0267 339.725 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C15401"
-			(at 375.92 339.725 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C15401"
 			(at 375.92 339.725 0)
 			(effects
@@ -19692,15 +18896,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 213.36 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C14663"
 			(at 213.36 119.38 0)
 			(effects
 				(font
@@ -19780,25 +18975,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 452.755 127.635 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 450.85 124.8059 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
 			(at 452.755 127.635 0)
 			(effects
 				(font
@@ -20038,24 +19214,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 193.04 291.0093 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C35165"
-			(at 193.04 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C35165"
 			(at 193.04 322.58 0)
 			(effects
@@ -20248,15 +19406,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C403725"
-			(at 183.515 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part" "GRM31CR61E476ME44L"
 			(at 183.515 62.23 0)
 			(effects
@@ -20337,24 +19486,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 426.085 222.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 427.736 225.7141 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C15401"
 			(at 426.085 222.885 0)
 			(effects
 				(font
@@ -20530,24 +19661,6 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" ""
-			(at 235.585 119.38 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C83333"
-			(at 235.585 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C83333"
 			(at 235.585 119.38 0)
 			(effects
@@ -20619,25 +19732,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 339.725 127.635 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 337.82 124.8059 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
 			(at 339.725 127.635 0)
 			(effects
 				(font
@@ -20783,24 +19877,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 323.215 205.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 324.866 207.9341 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C25241"
 			(at 323.215 205.105 0)
 			(effects
 				(font
@@ -21025,24 +20101,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 314.706 225.7141 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C15401"
-			(at 313.055 222.885 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C15401"
 			(at 313.055 222.885 0)
 			(effects
@@ -21226,23 +20284,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 289.56 215.6983 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 289.56 217.805 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 289.56 217.805 0)
 			(effects
@@ -21314,15 +20355,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 138.43 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 138.43 62.23 0)
 			(effects
 				(font
@@ -21418,15 +20450,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C526493"
-			(at 313.69 186.69 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Note" "9V Zener"
 			(at 307.975 187.325 0)
 			(effects
@@ -21505,23 +20528,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 288.29 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 288.29 156.845 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C21190"
 			(at 288.29 147.32 0)
 			(effects
 				(font
@@ -21678,15 +20684,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C17701049"
-			(at 329.565 125.095 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C17701049"
 			(at 329.565 125.095 0)
 			(effects
@@ -21760,15 +20757,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 320.675 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C8545"
 			(at 320.675 147.32 0)
 			(effects
 				(font
@@ -21924,15 +20912,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C526493"
-			(at 313.69 116.205 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Note" "9V Zener"
 			(at 307.975 116.84 0)
 			(effects
@@ -22018,23 +20997,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 246.38 334.8467 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C25241"
-			(at 246.38 332.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C25241"
 			(at 246.38 332.74 0)
 			(effects
@@ -22106,15 +21068,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 410.21 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434435"
 			(at 410.21 151.13 0)
 			(effects
 				(font
@@ -22297,15 +21250,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C7461391"
-			(at 167.894 119.253 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part" "CXP1050-100M-AG(10uh)"
 			(at 175.26 113.665 90)
 			(effects
@@ -22394,15 +21338,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C8545"
-			(at 433.705 217.805 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C8545"
 			(at 433.705 217.805 0)
 			(effects
@@ -22476,24 +21411,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 361.95 193.675 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 359.5893 192.024 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434431"
 			(at 361.95 193.675 0)
 			(effects
 				(font
@@ -22646,24 +21563,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 437.896 119.0341 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 436.245 116.205 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 436.245 116.205 0)
 			(effects
@@ -22734,15 +21633,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 67.31 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 67.31 114.3 0)
 			(effects
 				(font
@@ -23100,23 +21990,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 246.38 337.3867 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C25241"
-			(at 246.38 335.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C25241"
 			(at 246.38 335.28 0)
 			(effects
@@ -23439,25 +22312,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 165.735 157.1341 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C358684"
-			(at 171.45 153.035 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C358684"
 			(at 171.45 153.035 0)
 			(effects
@@ -23603,24 +22457,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 324.866 137.4491 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C25241"
-			(at 323.215 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C25241"
 			(at 323.215 134.62 0)
 			(effects
@@ -23692,24 +22528,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 297.18 221.615 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 298.831 219.2543 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434435"
 			(at 297.18 221.615 0)
 			(effects
 				(font
@@ -23930,25 +22748,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 450.85 195.2909 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
-			(at 452.755 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 452.755 198.12 0)
 			(effects
@@ -24019,15 +22818,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 60.96 114.3 0)
 			(effects
 				(font
@@ -24121,23 +22911,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 366.5967 339.725 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C15401"
-			(at 364.49 339.725 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C15401"
 			(at 364.49 339.725 0)
 			(effects
@@ -24209,15 +22982,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 166.37 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 166.37 62.23 0)
 			(effects
 				(font
@@ -24445,30 +23209,12 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" ""
-			(at 89.535 58.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Note" "7A self-resetting fuse"
 			(at 89.535 61.595 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "LCSC Part" "C207092"
-			(at 89.535 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(property "LCSC" "C207092"
@@ -24541,25 +23287,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 452.755 135.255 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 450.85 132.4259 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
 			(at 452.755 135.255 0)
 			(effects
 				(font
@@ -24710,23 +23437,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 460.375 294.8417 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C25241"
-			(at 460.375 292.735 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C25241"
 			(at 460.375 292.735 0)
 			(effects
@@ -24806,25 +23516,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 337.82 195.2909 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
-			(at 339.725 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 339.725 198.12 0)
 			(effects
@@ -24896,24 +23587,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 436.245 205.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 437.896 207.9341 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C25241"
 			(at 436.245 205.105 0)
 			(effects
 				(font
@@ -25007,15 +23680,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C207087"
-			(at 356.87 131.445 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C207087"
 			(at 356.87 131.445 0)
 			(effects
@@ -25095,24 +23759,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 361.696 286.0391 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 360.045 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 360.045 283.21 0)
 			(effects
@@ -25181,23 +23827,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 460.375 297.815 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 460.375 299.9217 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C25241"
 			(at 460.375 297.815 0)
 			(effects
 				(font
@@ -25285,24 +23914,6 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" ""
-			(at 212.09 62.23 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C315992"
-			(at 212.09 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C315992"
 			(at 212.09 62.23 0)
 			(effects
@@ -25371,23 +23982,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 372.11 339.725 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" " "
-			(at 374.2167 339.725 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C15401"
 			(at 372.11 339.725 0)
 			(effects
 				(font
@@ -25476,15 +24070,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C968007"
-			(at 222.885 351.155 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C968007"
 			(at 222.885 351.155 0)
 			(effects
@@ -25558,15 +24143,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 219.71 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 219.71 119.38 0)
 			(effects
 				(font
@@ -25726,23 +24302,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 353.06 191.5683 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C21190"
-			(at 353.06 193.675 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C21190"
 			(at 353.06 193.675 0)
 			(effects
@@ -25890,25 +24449,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 415.29 211.1659 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
-			(at 417.195 213.995 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 417.195 213.995 0)
 			(effects
@@ -25989,25 +24529,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 302.26 140.6809 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
-			(at 304.165 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 304.165 143.51 0)
 			(effects
@@ -26076,23 +24597,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 353.06 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 353.06 121.0833 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C21190"
 			(at 353.06 123.19 0)
 			(effects
 				(font
@@ -26261,15 +24765,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 436.88 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C968007"
 			(at 436.88 311.15 0)
 			(effects
 				(font
@@ -26581,15 +25076,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C403725"
-			(at 156.845 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part" "GRM31CR61E476ME44L"
 			(at 156.845 62.23 0)
 			(effects
@@ -26745,16 +25231,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C727076"
-			(at 302.26 148.3009 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C727076"
 			(at 304.165 151.13 0)
 			(effects
@@ -26826,25 +25302,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 339.725 135.255 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 337.82 132.4259 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C727076"
 			(at 339.725 135.255 0)
 			(effects
 				(font
@@ -27217,15 +25674,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C216322"
-			(at 90.17 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C216322"
 			(at 90.17 114.3 0)
 			(effects
@@ -27297,15 +25745,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 433.705 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C8545"
 			(at 433.705 147.32 0)
 			(effects
 				(font
@@ -27402,15 +25841,6 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C207087"
-			(at 356.87 201.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C207087"
 			(at 356.87 201.93 0)
 			(effects
@@ -27481,15 +25911,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 207.01 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 207.01 119.38 0)
 			(effects
 				(font
@@ -27578,15 +25999,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 395.605 275.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C14663"
 			(at 395.605 275.59 0)
 			(effects
 				(font
@@ -27806,15 +26218,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C403725"
-			(at 175.26 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Part" "GRM31CR61E476ME44L"
 			(at 175.26 62.23 0)
 			(effects
@@ -27894,15 +26297,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 73.66 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C403725"
 			(at 73.66 114.3 0)
 			(effects
 				(font
@@ -27996,23 +26390,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" " "
-			(at 370.4067 339.725 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "LCSC Part" "C15401"
-			(at 368.3 339.725 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C15401"
 			(at 368.3 339.725 0)
 			(effects
@@ -28084,24 +26461,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 447.04 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LSCS Part" ""
-			(at 447.04 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C968007"
 			(at 447.04 311.15 0)
 			(effects
 				(font
@@ -28192,24 +26551,6 @@
 				(hide yes)
 			)
 		)
-		(property "Field4" ""
-			(at 204.851 70.6643 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434435"
-			(at 203.2 73.025 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C434435"
 			(at 203.2 73.025 0)
 			(effects
@@ -28280,24 +26621,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 94.615 50.165 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 92.2543 48.514 90)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C434431"
 			(at 94.615 50.165 0)
 			(effects
 				(font
@@ -28384,15 +26707,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C14663"
-			(at 79.375 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C14663"
 			(at 79.375 114.3 0)
 			(effects
@@ -28466,24 +26780,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 169.545 278.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" "CONN-09696"
-			(at 172.085 268.7843 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part" "C358686"
 			(at 169.545 278.765 0)
 			(effects
 				(font
