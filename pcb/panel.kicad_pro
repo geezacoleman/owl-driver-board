@@ -1,15 +1,19 @@
 {
   "board": {
+    "3dviewports": [],
     "design_settings": {
       "defaults": {
-        "board_outline_line_width": 0.09999999999999999,
-        "copper_line_width": 0.19999999999999998,
+        "apply_defaults_to_fp_fields": false,
+        "apply_defaults_to_fp_shapes": false,
+        "apply_defaults_to_fp_text": false,
+        "board_outline_line_width": 0.1,
+        "copper_line_width": 0.2,
         "copper_text_italic": false,
         "copper_text_size_h": 1.5,
         "copper_text_size_v": 1.5,
         "copper_text_thickness": 0.3,
         "copper_text_upright": false,
-        "courtyard_line_width": 0.049999999999999996,
+        "courtyard_line_width": 0.05,
         "dimension_precision": 4,
         "dimension_units": 3,
         "dimensions": {
@@ -20,7 +24,7 @@
           "text_position": 0,
           "units_format": 1
         },
-        "fab_line_width": 0.09999999999999999,
+        "fab_line_width": 0.1,
         "fab_text_italic": false,
         "fab_text_size_h": 1.0,
         "fab_text_size_v": 1.0,
@@ -34,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.95,
-          "width": 0.8
+          "height": 2.4,
+          "width": 0.3
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -55,94 +59,34 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "courtyards_overlap|122568592|139220001|80f1ae57-e400-4f67-b156-fca30258cc40|c53f22d4-340f-4b98-b56b-5f19edc7ecc8",
-        "courtyards_overlap|122568592|80220001|fb8faed2-f883-4fca-82d3-75b599237e33|eb889be1-c693-4951-a759-3270faf1889a",
-        "courtyards_overlap|132797055|102020001|23253170-f836-4922-90b2-1f8dc3ef7703|65ca274e-c5e8-4b4b-ac2b-01f9d02ed15c",
-        "courtyards_overlap|132797055|102020001|65ca274e-c5e8-4b4b-ac2b-01f9d02ed15c|23253170-f836-4922-90b2-1f8dc3ef7703",
-        "courtyards_overlap|132797055|43020001|520e9ce2-bed8-4526-a157-1f8610b310ee|e795313e-4ee1-432c-8375-94c9919c360a",
-        "courtyards_overlap|132797055|43020001|e795313e-4ee1-432c-8375-94c9919c360a|520e9ce2-bed8-4526-a157-1f8610b310ee",
-        "courtyards_overlap|148520001|34470001|9a941298-03d1-4ba5-aa18-4bc915570c11|71972c4d-3afc-445b-8d09-970a349a3223",
-        "courtyards_overlap|148520001|36770001|ae445c2c-08ab-4bf3-955c-9b518d995226|1c99b097-a314-46a7-91a8-f6feb7a54e3a",
-        "courtyards_overlap|148520001|93470001|eb887d1b-4aa9-4ef9-8107-ff9edc64cb54|f872b830-48ea-463b-9fdc-99f5e48effd2",
-        "courtyards_overlap|148520001|95770001|130da0ec-150a-421b-a827-30681ca36764|daa19628-8a38-4deb-b975-35faeac22a8d",
-        "courtyards_overlap|148549999|36250001|9a941298-03d1-4ba5-aa18-4bc915570c11|ae445c2c-08ab-4bf3-955c-9b518d995226",
-        "courtyards_overlap|148549999|95250001|eb887d1b-4aa9-4ef9-8107-ff9edc64cb54|130da0ec-150a-421b-a827-30681ca36764",
-        "courtyards_overlap|162369999|120170001|ed1c4e21-d9c5-4986-ae27-f2903254a798|646b770a-776c-4ff6-a574-7c32aa184434",
-        "courtyards_overlap|162369999|61170001|5ad3b0fa-eb60-4105-a3f6-35f3cbc59204|4a84d08d-bf22-4070-ab16-85ed6f04c3e6",
-        "silk_over_copper|125100000|37950000|b92c3daf-ce9d-4b57-97ee-ebec6ca5b166|df7db4f9-0641-4c41-a69f-6b8c913aaa5b",
-        "silk_over_copper|125100000|96950000|2cec006e-95f3-42ff-b77e-93278ce61390|b03b3a24-5d35-4bf0-978d-c6608edcd253",
-        "silk_over_copper|126050000|126400000|e69bf19a-79c3-42ec-bdf6-6bb2c04edc59|623d5f8a-14e9-4c68-bd06-a64dac81b3d7",
-        "silk_over_copper|126050000|131000000|de295260-0d89-4ff0-aca0-591a725248c9|45515681-5c8c-4e93-b6b8-e4563e4093e9",
-        "silk_over_copper|126050000|67400000|38c24f60-3b81-44ed-98a2-40c1e8a9b5e2|65f59e39-b018-4b43-90f8-cb33b46e9e43",
-        "silk_over_copper|126050000|72000000|5a00416d-0838-45cf-8263-6ed82b7132de|55926fd1-1b0d-4ef6-9171-c6e0a42cda8a",
-        "silk_over_copper|127400000|107900000|1a4dfc89-d6cb-4bc1-a95f-b767000e8a85|2cceda21-b003-4d4f-846f-568c5e344f23",
-        "silk_over_copper|127400000|107950000|1a4dfc89-d6cb-4bc1-a95f-b767000e8a85|2cceda21-b003-4d4f-846f-568c5e344f23",
-        "silk_over_copper|127400000|48900000|1a4dfc89-d6cb-4bc1-a95f-b767000e8a85|fc1146fe-8fb7-4377-8b7a-6f8990eb60e6",
-        "silk_over_copper|127400000|48950000|1a4dfc89-d6cb-4bc1-a95f-b767000e8a85|fc1146fe-8fb7-4377-8b7a-6f8990eb60e6",
-        "silk_over_copper|131550000|123550000|4e1d7bc5-599c-412d-bd4c-20814bbb8c0f|e1e0dfed-bfe2-45b8-ba65-d694f954461c",
-        "silk_over_copper|131550000|64550000|e987cf31-0fd0-4d4d-915c-3dc9dacb96c4|96c19db0-b4cc-4720-bd6c-23a9dacefa1e",
-        "silk_over_copper|133850000|108400000|3e11c60c-587a-462d-93ea-88278efee520|c7afc00e-8e25-446c-8e72-8ec220cc3050",
-        "silk_over_copper|133850000|49400000|833a2fb8-336a-4bdc-aaa8-11931bc5651d|d8e6ded9-4008-4bc9-bc95-0bb8c5ae4e53",
-        "silk_over_copper|138250000|125100000|f3d17e3d-f3bd-436b-9148-516423db0e50|fca1d8d7-4a70-4cab-85c9-94deae98a0a8",
-        "silk_over_copper|138250000|129700000|6f862465-52d5-4606-b851-95857d543c89|f4cdecd5-a1c3-46c9-a7e4-3a16eee5c8af",
-        "silk_over_copper|138250000|66100000|4bc913c8-10be-40dd-af6f-97d5fa98c19e|3c9d0b1d-99ac-4f19-8f9a-e773c1b12c12",
-        "silk_over_copper|138250000|70700000|2afcbb19-d8d2-40b0-bf9c-2bef992e77b9|41937ff9-6069-4695-948c-ab9c17fe2955",
-        "silk_over_copper|140650000|125100000|33dc09f0-8a24-42de-a295-b51e196d45e6|7613607d-9fe3-4466-91dd-5a0fd67750c7",
-        "silk_over_copper|140650000|66100000|28a25a2f-0ba0-49d8-ac03-97dcfaf9efa0|862fad3e-2c10-41e6-b4f1-ece9645702cf",
-        "silk_over_copper|141450000|118000000|344feadd-283a-4147-93b8-1f5c60a326e5|b9a099a4-e908-4483-b6e8-50e8c2147be2",
-        "silk_over_copper|141450000|59000000|1138ff51-5579-4e19-8d1b-745793c32fc3|c7f4fe20-7667-4598-8e8b-a58864a44720",
-        "silk_over_copper|141725000|136600000|2280340d-6151-432f-b888-f3036521227d|46f8569c-2536-4cc2-8782-2b0ac8f18779",
-        "silk_over_copper|141725000|77600000|da162b55-3fd7-4ef6-a240-4e4a5936107f|5c64f462-98ff-4e36-b134-e1189a9db654",
-        "silk_over_copper|146050000|123550000|0ba8d280-0b08-46e7-ae4d-95046a0d904a|d59bfb16-661c-4762-b540-bb9fad638643",
-        "silk_over_copper|146050000|64550000|95e22e91-285a-4603-9b72-b8327da5ca29|51f65bd0-3e8f-4243-bb2c-b8398161b047",
-        "silk_over_copper|152800000|125100000|611d0494-d01b-48dd-a368-cdb4ba892ee5|184b159e-bf00-4ad8-9523-3b7c6bf2e0a8",
-        "silk_over_copper|152800000|129700000|38ff7301-835b-44f4-941e-9c49830d6b3d|4ba9ef2f-f1e7-41de-90ad-c17f67095e5c",
-        "silk_over_copper|152800000|66100000|484a90e2-b97c-4569-ab4b-0334b850fc33|0d995b45-f602-4abc-bf5f-949a19abc61c",
-        "silk_over_copper|152800000|70700000|c7b8e332-8567-41b6-9a8c-0e1f73adaa44|9641a3be-a1d6-4297-a756-53af11bdf6f0",
-        "silk_over_copper|154800000|102750000|e68ec72d-48ae-4191-ae4f-3e94163d7c17|09be71a6-bbdd-463d-a2a6-5c2e85b940de",
-        "silk_over_copper|154800000|43750000|fe1e825e-a9d6-4a1c-b049-df19bebe613e|0bd27169-0d5a-4bcc-854e-ffa12bbf8c57",
-        "silk_over_copper|156750000|112300000|fe369c0f-d25d-4c43-83c6-a05972cbe7a7|6fcf3f82-c9bf-4ec4-a428-fade51806d5e",
-        "silk_over_copper|156750000|53300000|4cb922bc-5d5b-44ae-9fae-d238757a1aba|a937aee4-ca98-4421-a58a-2ce7645546a4",
-        "silk_over_copper|157450000|104600000|29c41651-1b9f-4877-9736-62fa5d2b6df0|f3b82e12-0f59-4927-b438-3c8c649f8d01",
-        "silk_over_copper|157450000|45600000|baee8ece-da3e-4403-960b-e031e61487f7|3284c04e-bf32-4f78-b109-1c18257f9b30",
-        "silk_over_copper|160550000|101150000|8d2ec7fe-afc2-47b1-9a20-42eb74df0302|20d23c35-df2e-4ba6-8903-8121efa28d36",
-        "silk_over_copper|160550000|116250000|0eca7d0e-686d-4d94-9eb5-3451ff842e93|bc2b7647-4991-4819-b698-b3864aa5259a",
-        "silk_over_copper|160550000|42150000|81ec723e-a63a-4c9c-b3a1-73a5c17b85a8|f961fae4-afba-40f0-90ec-07e340baaffd",
-        "silk_over_copper|160550000|57250000|21d0dd3a-056e-4295-84f3-2a43d86f1039|5aef9a95-895f-47c0-a6a6-fee9aa6f4ffd",
-        "silk_over_copper|162800000|109800000|25514e15-829d-4b58-8535-f8064d675bbf|472402ed-3666-44dc-bc03-2181127f862a",
-        "silk_over_copper|162800000|50800000|64f438b9-f1bb-4267-9b0a-fba025260427|2c3099d1-abc5-44ec-a449-b706c84c8020",
-        "silk_over_copper|162900000|35850000|e45554c1-211a-447d-bb45-d6228702d0d9|562b4583-30c5-44b3-b7cf-03081891795a",
-        "silk_over_copper|162900000|94850000|b44cb364-1a35-4ec4-89f9-9d81be4b54b2|c8027d00-541d-444c-b630-507578946db8",
-        "silk_over_copper|166000000|122750000|ad3575e2-6ee9-43f9-a3f6-e4c9a57c4dd8|d83b10bd-3b41-4ea6-8b14-b4c013e024dd",
-        "silk_over_copper|166000000|63750000|1162b52c-c15a-4024-8388-bd46e18bc700|436d5d9d-e207-4bed-bedb-871d26bcfe98",
-        "silk_over_copper|167350000|109800000|37f9811a-fae3-45cd-8868-de4b71c2f792|2738a062-81dc-47e8-a379-dbb79f6a7830",
-        "silk_over_copper|167350000|50800000|66e52fea-18b8-439f-a007-25007bb0c379|8b805a8f-37e1-41eb-b4e8-6a63d9bb3269",
-        "silk_over_copper|167400000|35850000|ae2355e4-3a03-4018-af48-37d5ec2cabe6|3105cae3-d910-4d7b-8c84-19d081799548",
-        "silk_over_copper|167400000|94850000|11003173-0e02-41f8-b9e3-6cd25254907f|470349f7-c9e3-458c-aa80-f58bde85c542",
-        "silk_overlap|177000000|111700000|419db227-13d1-4251-a084-896682ccd9dc|363e2560-311b-4b5c-8eea-1ec30dfcc3b1",
-        "silk_overlap|177000000|52700000|362fec64-ada3-4719-a09d-4aecfa132b8c|324fd24f-879b-4c6a-957f-b14014d347c8"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
         "clearance": "error",
+        "connection_width": "warning",
         "copper_edge_clearance": "error",
+        "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
+        "footprint": "error",
+        "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
+        "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
+        "lib_footprint_issues": "ignore",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "ignore",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
@@ -152,9 +96,14 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
+        "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
+        "solder_mask_bridge": "error",
+        "starved_thermal": "error",
+        "text_height": "warning",
+        "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -170,21 +119,69 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.15,
+        "min_clearance": 0.1,
+        "min_connection": 0.0,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
-        "min_microvia_diameter": 0.19999999999999998,
-        "min_microvia_drill": 0.09999999999999999,
+        "min_microvia_diameter": 0.2,
+        "min_microvia_drill": 0.1,
+        "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
+        "min_text_height": 0.75,
+        "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.19999999999999998,
-        "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997,
+        "min_track_width": 0.2,
+        "min_via_annular_width": 0.05,
+        "min_via_diameter": 0.4,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
+        "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
+      "teardrop_options": [
+        {
+          "td_onpadsmd": true,
+          "td_onroundshapesonly": false,
+          "td_ontrackend": false,
+          "td_onviapad": true
+        }
+      ],
+      "teardrop_parameters": [
+        {
+          "td_allow_use_two_tracks": true,
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_on_pad_in_zone": false,
+          "td_target_name": "td_round_shape",
+          "td_width_to_size_filter_ratio": 0.9
+        },
+        {
+          "td_allow_use_two_tracks": true,
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_on_pad_in_zone": false,
+          "td_target_name": "td_rect_shape",
+          "td_width_to_size_filter_ratio": 0.9
+        },
+        {
+          "td_allow_use_two_tracks": true,
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_on_pad_in_zone": false,
+          "td_target_name": "td_track_end",
+          "td_width_to_size_filter_ratio": 0.9
+        }
+      ],
       "track_widths": [
         0.0,
         0.2,
@@ -192,6 +189,32 @@
         1.0,
         2.0
       ],
+      "tuning_pattern_settings": {
+        "diff_pair_defaults": {
+          "corner_radius_percentage": 80,
+          "corner_style": 1,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.2,
+          "single_sided": false,
+          "spacing": 1.0
+        },
+        "diff_pair_skew_defaults": {
+          "corner_radius_percentage": 80,
+          "corner_style": 1,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.2,
+          "single_sided": false,
+          "spacing": 0.6
+        },
+        "single_track_defaults": {
+          "corner_radius_percentage": 80,
+          "corner_style": 1,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.2,
+          "single_sided": false,
+          "spacing": 0.6
+        }
+      },
       "via_dimensions": [
         {
           "diameter": 0.0,
@@ -213,7 +236,15 @@
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
-    "layer_presets": []
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
+    },
+    "layer_presets": [],
+    "viewports": []
   },
   "boards": [],
   "cvpcb": {
@@ -230,8 +261,8 @@
   "net_settings": {
     "classes": [
       {
-        "bus_width": 12.0,
-        "clearance": 0.2,
+        "bus_width": 12,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -244,11 +275,11 @@
         "track_width": 0.2,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
-        "clearance": 0.2,
+        "bus_width": 12,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -256,130 +287,16 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_0-Default",
-        "nets": [
-          "Board_0-+3V3",
-          "Board_0-+5V",
-          "Board_0-/BOOT",
-          "Board_0-/COMP",
-          "Board_0-/EN",
-          "Board_0-/M1_D",
-          "Board_0-/M1_G",
-          "Board_0-/M2_D",
-          "Board_0-/M2_G",
-          "Board_0-/M3_D",
-          "Board_0-/M3_G",
-          "Board_0-/M4_D",
-          "Board_0-/M4_G",
-          "Board_0-/PI_5V0_P",
-          "Board_0-/SS",
-          "Board_0-/SW",
-          "Board_0-/VSENSE",
-          "Board_0-GND",
-          "Board_0-I2C_SCL",
-          "Board_0-I2C_SDA",
-          "Board_0-INPUT1",
-          "Board_0-INPUT2",
-          "Board_0-INPUT3",
-          "Board_0-INPUT4",
-          "Board_0-MOSFET1",
-          "Board_0-MOSFET2",
-          "Board_0-MOSFET3",
-          "Board_0-MOSFET4",
-          "Board_0-Net-(C23-Pad1)",
-          "Board_0-Net-(D1-Pad1)",
-          "Board_0-Net-(D1-Pad2)",
-          "Board_0-Net-(D12-Pad2)",
-          "Board_0-Net-(D13-Pad2)",
-          "Board_0-Net-(D19-Pad2)",
-          "Board_0-Net-(D20-Pad2)",
-          "Board_0-Net-(D25-Pad2)",
-          "Board_0-Net-(D26-Pad2)",
-          "Board_0-Net-(D32-Pad1)",
-          "Board_0-Net-(D32-Pad2)",
-          "Board_0-Net-(D33-Pad1)",
-          "Board_0-Net-(D33-Pad2)",
-          "Board_0-Net-(D34-Pad1)",
-          "Board_0-Net-(D34-Pad2)",
-          "Board_0-Net-(D35-Pad1)",
-          "Board_0-Net-(D35-Pad2)",
-          "Board_0-Net-(D38-Pad2)",
-          "Board_0-Net-(D4-Pad2)",
-          "Board_0-Net-(D5-Pad2)",
-          "Board_0-Net-(D6-Pad2)",
-          "Board_0-Net-(JP7-Pad2)",
-          "Board_0-Net-(JP8-Pad2)",
-          "Board_0-Net-(Q4-Pad3)",
-          "Board_0-Net-(Q5-Pad3)",
-          "Board_0-Net-(Q8-Pad3)",
-          "Board_0-Net-(Q9-Pad3)",
-          "Board_0-Net-(R32-Pad2)",
-          "Board_0-Net-(R33-Pad2)",
-          "Board_0-Net-(R34-Pad2)",
-          "Board_0-Net-(R35-Pad2)",
-          "Board_0-Net-(R36-Pad2)",
-          "Board_0-Net-(R37-Pad2)",
-          "Board_0-Net-(R46-Pad1)",
-          "Board_0-OE",
-          "Board_0-OUT1",
-          "Board_0-OUT2",
-          "Board_0-OUT3",
-          "Board_0-OUT4",
-          "Board_0-PI1",
-          "Board_0-PI2",
-          "Board_0-PI3",
-          "Board_0-PI4",
-          "Board_0-PI_5V0",
-          "Board_0-VCC",
-          "Board_0-VIN",
-          "Board_0-unconnected-(J2-Pad10)",
-          "Board_0-unconnected-(J2-Pad11)",
-          "Board_0-unconnected-(J2-Pad12)",
-          "Board_0-unconnected-(J2-Pad17)",
-          "Board_0-unconnected-(J2-Pad19)",
-          "Board_0-unconnected-(J2-Pad21)",
-          "Board_0-unconnected-(J2-Pad23)",
-          "Board_0-unconnected-(J2-Pad24)",
-          "Board_0-unconnected-(J2-Pad26)",
-          "Board_0-unconnected-(J2-Pad27)",
-          "Board_0-unconnected-(J2-Pad28)",
-          "Board_0-unconnected-(J2-Pad29)",
-          "Board_0-unconnected-(J2-Pad31)",
-          "Board_0-unconnected-(J2-Pad32)",
-          "Board_0-unconnected-(J2-Pad33)",
-          "Board_0-unconnected-(J2-Pad35)",
-          "Board_0-unconnected-(J2-Pad36)",
-          "Board_0-unconnected-(J2-Pad37)",
-          "Board_0-unconnected-(J2-Pad38)",
-          "Board_0-unconnected-(J2-Pad40)",
-          "Board_0-unconnected-(J2-Pad7)",
-          "Board_0-unconnected-(J2-Pad8)",
-          "Board_0-unconnected-(U2-Pad10)",
-          "Board_0-unconnected-(U2-Pad11)",
-          "Board_0-unconnected-(U2-Pad12)",
-          "Board_0-unconnected-(U2-Pad13)",
-          "Board_0-unconnected-(U2-Pad15)",
-          "Board_0-unconnected-(U2-Pad16)",
-          "Board_0-unconnected-(U2-Pad17)",
-          "Board_0-unconnected-(U2-Pad18)",
-          "Board_0-unconnected-(U2-Pad19)",
-          "Board_0-unconnected-(U2-Pad20)",
-          "Board_0-unconnected-(U2-Pad21)",
-          "Board_0-unconnected-(U2-Pad22)",
-          "Board_0-unconnected-(U2-Pad25)",
-          "Board_0-unconnected-(U3-Pad10)",
-          "Board_0-unconnected-(U3-Pad3)",
-          "Board_0-unconnected-(U3-Pad7)"
-        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0
+        "wire_width": 6
       },
       {
-        "bus_width": 12.0,
-        "clearance": 0.2,
+        "bus_width": 12,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -387,140 +304,944 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Board_1-Default",
-        "nets": [
-          "Board_1-+3V3",
-          "Board_1-+5V",
-          "Board_1-/BOOT",
-          "Board_1-/COMP",
-          "Board_1-/EN",
-          "Board_1-/M1_D",
-          "Board_1-/M1_G",
-          "Board_1-/M2_D",
-          "Board_1-/M2_G",
-          "Board_1-/M3_D",
-          "Board_1-/M3_G",
-          "Board_1-/M4_D",
-          "Board_1-/M4_G",
-          "Board_1-/PI_5V0_P",
-          "Board_1-/SS",
-          "Board_1-/SW",
-          "Board_1-/VSENSE",
-          "Board_1-GND",
-          "Board_1-I2C_SCL",
-          "Board_1-I2C_SDA",
-          "Board_1-INPUT1",
-          "Board_1-INPUT2",
-          "Board_1-INPUT3",
-          "Board_1-INPUT4",
-          "Board_1-MOSFET1",
-          "Board_1-MOSFET2",
-          "Board_1-MOSFET3",
-          "Board_1-MOSFET4",
-          "Board_1-Net-(C23-Pad1)",
-          "Board_1-Net-(D1-Pad1)",
-          "Board_1-Net-(D1-Pad2)",
-          "Board_1-Net-(D12-Pad2)",
-          "Board_1-Net-(D13-Pad2)",
-          "Board_1-Net-(D19-Pad2)",
-          "Board_1-Net-(D20-Pad2)",
-          "Board_1-Net-(D25-Pad2)",
-          "Board_1-Net-(D26-Pad2)",
-          "Board_1-Net-(D32-Pad1)",
-          "Board_1-Net-(D32-Pad2)",
-          "Board_1-Net-(D33-Pad1)",
-          "Board_1-Net-(D33-Pad2)",
-          "Board_1-Net-(D34-Pad1)",
-          "Board_1-Net-(D34-Pad2)",
-          "Board_1-Net-(D35-Pad1)",
-          "Board_1-Net-(D35-Pad2)",
-          "Board_1-Net-(D38-Pad2)",
-          "Board_1-Net-(D4-Pad2)",
-          "Board_1-Net-(D5-Pad2)",
-          "Board_1-Net-(D6-Pad2)",
-          "Board_1-Net-(JP7-Pad2)",
-          "Board_1-Net-(JP8-Pad2)",
-          "Board_1-Net-(Q4-Pad3)",
-          "Board_1-Net-(Q5-Pad3)",
-          "Board_1-Net-(Q8-Pad3)",
-          "Board_1-Net-(Q9-Pad3)",
-          "Board_1-Net-(R32-Pad2)",
-          "Board_1-Net-(R33-Pad2)",
-          "Board_1-Net-(R34-Pad2)",
-          "Board_1-Net-(R35-Pad2)",
-          "Board_1-Net-(R36-Pad2)",
-          "Board_1-Net-(R37-Pad2)",
-          "Board_1-Net-(R46-Pad1)",
-          "Board_1-OE",
-          "Board_1-OUT1",
-          "Board_1-OUT2",
-          "Board_1-OUT3",
-          "Board_1-OUT4",
-          "Board_1-PI1",
-          "Board_1-PI2",
-          "Board_1-PI3",
-          "Board_1-PI4",
-          "Board_1-PI_5V0",
-          "Board_1-VCC",
-          "Board_1-VIN",
-          "Board_1-unconnected-(J2-Pad10)",
-          "Board_1-unconnected-(J2-Pad11)",
-          "Board_1-unconnected-(J2-Pad12)",
-          "Board_1-unconnected-(J2-Pad17)",
-          "Board_1-unconnected-(J2-Pad19)",
-          "Board_1-unconnected-(J2-Pad21)",
-          "Board_1-unconnected-(J2-Pad23)",
-          "Board_1-unconnected-(J2-Pad24)",
-          "Board_1-unconnected-(J2-Pad26)",
-          "Board_1-unconnected-(J2-Pad27)",
-          "Board_1-unconnected-(J2-Pad28)",
-          "Board_1-unconnected-(J2-Pad29)",
-          "Board_1-unconnected-(J2-Pad31)",
-          "Board_1-unconnected-(J2-Pad32)",
-          "Board_1-unconnected-(J2-Pad33)",
-          "Board_1-unconnected-(J2-Pad35)",
-          "Board_1-unconnected-(J2-Pad36)",
-          "Board_1-unconnected-(J2-Pad37)",
-          "Board_1-unconnected-(J2-Pad38)",
-          "Board_1-unconnected-(J2-Pad40)",
-          "Board_1-unconnected-(J2-Pad7)",
-          "Board_1-unconnected-(J2-Pad8)",
-          "Board_1-unconnected-(U2-Pad10)",
-          "Board_1-unconnected-(U2-Pad11)",
-          "Board_1-unconnected-(U2-Pad12)",
-          "Board_1-unconnected-(U2-Pad13)",
-          "Board_1-unconnected-(U2-Pad15)",
-          "Board_1-unconnected-(U2-Pad16)",
-          "Board_1-unconnected-(U2-Pad17)",
-          "Board_1-unconnected-(U2-Pad18)",
-          "Board_1-unconnected-(U2-Pad19)",
-          "Board_1-unconnected-(U2-Pad20)",
-          "Board_1-unconnected-(U2-Pad21)",
-          "Board_1-unconnected-(U2-Pad22)",
-          "Board_1-unconnected-(U2-Pad25)",
-          "Board_1-unconnected-(U3-Pad10)",
-          "Board_1-unconnected-(U3-Pad3)",
-          "Board_1-unconnected-(U3-Pad7)"
-        ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0
+        "wire_width": 6
       }
     ],
     "meta": {
-      "version": 2
+      "version": 3
     },
-    "net_colors": null
+    "net_colors": null,
+    "netclass_assignments": null,
+    "netclass_patterns": [
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-MOSFET4"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-OE"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-LED0)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/M4_D"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(C23-Pad1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(Q4-D)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED13-Pad20)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D19-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-PI2"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-OUT4"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D13-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP12-Pad32)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D20-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED10-Pad17)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/M4_G"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D12-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J2-GP24)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP13-Pad33)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED15-Pad22)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED14-Pad21)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-INPUT3"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-A4)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP18#-Pad12)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-MOSFET3"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-A1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-OUT1"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP17-Pad11)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/M2_D"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D4-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-GND"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/M1_G"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/VSENSE"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D26-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-CE0-Pad24)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(JP8-B)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J2-GP27)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED11-Pad18)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-+5V"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D1-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-LED2)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D25-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U3-PG-Pad3)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED8-Pad15)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-PI1"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED5-Pad11)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-A3)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-A0)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-MOSFET2"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP6-Pad31)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED4-Pad10)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-MISO-Pad21)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP16-Pad36)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/PI_5V0_P"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D6-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-A5)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/SW"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-LED3)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-TXO-Pad8)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-PI_5V0"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP5-Pad29)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-I2C_SDA"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-VCC"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED9-Pad16)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/M3_D"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/COMP"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U3-DVDT-Pad7)_0"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(JP7-B)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U3-EN)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED12-Pad19)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED7-Pad13)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/M2_G"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D1-K)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U3-DNC-Pad10)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/M1_D"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-EXTCLK-Pad25)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(Q5-D)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-PI3"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-LED1)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-3.3V-Pad17)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP26-Pad37)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U3-DVDT-Pad7)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/BOOT"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D5-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J2-GP22)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-+3V3"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-INPUT4"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/M3_G"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-OUT2"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U2-LED6-Pad12)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-MOSFET1"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-VIN"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP4-Pad7)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(Q9-D)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-CE1-Pad26)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/SS"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP20-Pad38)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(Q8-D)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-INPUT2"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-OUT3"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-I2C_SCL"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-INPUT1"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP19-Pad35)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-/EN"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-SCLK-Pad23)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-ID_SC-Pad28)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-MOSI-Pad19)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-PI4"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(U3-DNC-Pad10)_0"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-RXI-Pad10)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-GP21-Pad40)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(D38-A)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-unconnected-(J2-ID_SD-Pad27)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(J2-GP23)"
+      },
+      {
+        "netclass": "Board_0-Default",
+        "pattern": "Board_0-Net-(U2-A2)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED14-Pad21)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-I2C_SDA"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J2-GP27)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-MOSFET4"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-INPUT3"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D1-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(JP7-B)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-PI_5V0"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-TXO-Pad8)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U3-EN)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED5-Pad11)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-A3)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-INPUT1"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/M3_G"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-PI1"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D25-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED13-Pad20)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U3-DNC-Pad10)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(JP8-B)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-LED1)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D19-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D38-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED15-Pad22)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-VCC"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED12-Pad19)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED9-Pad16)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP12-Pad32)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP4-Pad7)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(Q8-D)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(Q5-D)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-RXI-Pad10)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-I2C_SCL"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D12-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-A2)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/M3_D"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J2-GP22)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(C23-Pad1)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/M1_G"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-OUT1"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/M2_G"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-ID_SD-Pad27)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED10-Pad17)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED6-Pad12)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/BOOT"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-3.3V-Pad17)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-MISO-Pad21)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U3-DVDT-Pad7)_0"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-LED2)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D5-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/M4_D"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-VIN"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D20-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP5-Pad29)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-MOSI-Pad19)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-PI4"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J2-GP23)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-MOSFET2"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D1-K)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-+5V"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D4-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-A0)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-OUT3"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D6-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED8-Pad15)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP6-Pad31)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U3-DNC-Pad10)_0"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/PI_5V0_P"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-PI3"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-A5)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP20-Pad38)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-CE1-Pad26)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-+3V3"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP18#-Pad12)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED4-Pad10)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-ID_SC-Pad28)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-LED3)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP17-Pad11)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-INPUT4"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP21-Pad40)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(Q9-D)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(Q4-D)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-A4)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-MOSFET3"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/COMP"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED7-Pad13)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP19-Pad35)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/VSENSE"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-OUT2"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-LED0)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP26-Pad37)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP13-Pad33)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(U2-A1)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/SS"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-OE"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-CE0-Pad24)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-GND"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/M2_D"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-LED11-Pad18)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-GP16-Pad36)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(J2-GP24)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/M1_D"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(J2-SCLK-Pad23)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-INPUT2"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U3-DVDT-Pad7)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/SW"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D26-A)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/M4_G"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-MOSFET1"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U3-PG-Pad3)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-PI2"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-OUT4"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-/EN"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-unconnected-(U2-EXTCLK-Pad25)"
+      },
+      {
+        "netclass": "Board_1-Default",
+        "pattern": "Board_1-Net-(D13-A)"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
       "idf": "",
       "netlist": "",
+      "plot": "gerbers-panel-v2.3/",
+      "pos_files": "./",
       "specctra_dsn": "",
       "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
