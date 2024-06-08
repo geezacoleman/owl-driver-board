@@ -16214,7 +16214,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 425.45 217.17 0)
 			(effects
 				(font
@@ -18271,7 +18271,7 @@
 				)
 			)
 		)
-		(property "Value" "AZ1117-3.3"
+		(property "Value" "XC6206P332MR"
 			(at 95.25 157.48 0)
 			(effects
 				(font
@@ -18299,6 +18299,24 @@
 			)
 		)
 		(property "Description" "1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263"
+			(at 95.25 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part" "XC6206P332MR"
+			(at 95.25 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5148692"
 			(at 95.25 161.29 0)
 			(effects
 				(font
@@ -18390,7 +18408,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 118.11 62.23 0)
 			(effects
 				(font
@@ -18676,7 +18694,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 346.71 62.23 0)
 			(effects
 				(font
@@ -20557,7 +20575,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 120.65 243.84 0)
 			(effects
 				(font
@@ -21668,7 +21686,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 425.45 154.94 0)
 			(effects
 				(font
@@ -23319,7 +23337,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 346.71 125.73 0)
 			(effects
 				(font
@@ -24119,7 +24137,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 425.45 92.71 0)
 			(effects
 				(font
@@ -24808,7 +24826,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 425.45 30.48 0)
 			(effects
 				(font
@@ -30230,7 +30248,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 346.71 250.19 0)
 			(effects
 				(font
@@ -30943,7 +30961,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20612287"
+		(property "LCSC" "C2987034"
 			(at 346.71 186.69 0)
 			(effects
 				(font

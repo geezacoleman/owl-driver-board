@@ -2384,7 +2384,7 @@
 				)
 			)
 		)
-		(attr board_only exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 1)
 			(end 0.25 -1)
@@ -2426,7 +2426,7 @@
 			(uuid "589491fb-f703-4225-a0d4-2194cae6c49a")
 		)
 		(fp_text user "KIKIT: width: 30mm"
-			(at -5.5 0 0)
+			(at -5.5 0 180)
 			(layer "Dwgs.User")
 			(uuid "9b432002-71ea-47c6-9b90-9137ae2512ac")
 			(effects
@@ -3721,7 +3721,7 @@
 				)
 			)
 		)
-		(attr board_only exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 0)
 			(end -0.75 -1)
@@ -3838,7 +3838,7 @@
 				)
 			)
 		)
-		(attr board_only exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 1)
 			(end 0.25 -1)
@@ -8826,7 +8826,7 @@
 				)
 			)
 		)
-		(attr board_only exclude_from_pos_files exclude_from_bom)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 0)
 			(end -2.75 0)
@@ -11477,7 +11477,7 @@
 				)
 			)
 		)
-		(attr board_only exclude_from_pos_files)
+		(attr board_only exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.25 0)
 			(end -2.75 0)
@@ -38051,7 +38051,7 @@
 	(footprint "Symbol:OSHW-Logo2_7.3x6mm_SilkScreen"
 		(layer "B.Cu")
 		(uuid "d4bf0e44-62ce-4bc2-8e9f-99b2922c94a5")
-		(at 81.6 44.1 90)
+		(at 56.5 29.8 90)
 		(descr "Open Source Hardware Symbol")
 		(tags "Logo Symbol OSHW")
 		(property "Reference" "LOGO1"
@@ -47697,18 +47697,6 @@
 				(thickness 0.24)
 			)
 			(justify left)
-		)
-	)
-	(gr_text "github.com/geezacoleman/\nowl-driver-board"
-		(at 76.85 52.8 270)
-		(layer "B.SilkS")
-		(uuid "63cc07b2-496c-43aa-8025-c329e8bc1156")
-		(effects
-			(font
-				(size 0.75 0.75)
-				(thickness 0.12)
-			)
-			(justify left mirror)
 		)
 	)
 	(gr_text "M2.5"
