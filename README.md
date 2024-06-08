@@ -74,6 +74,13 @@ extends to communication buses with the Raspberry Pi.
 
 Initial prototype.
 
+# Schematic and layout
+
+KiCanvas links:
+
+ * [Schematic](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fgeezacoleman%2Fowl-driver-board%2Fblob%2Fmain%2Fpcb%2Fowl-driver-board.kicad_sch)
+ * [Layout](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fgeezacoleman%2Fowl-driver-board%2Fblob%2Fmain%2Fpcb%2Fowl-driver-board.kicad_pcb)
+
 # Purchase a finished board
 
 You can buy a finished board via the following distributors:
