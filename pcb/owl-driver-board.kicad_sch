@@ -11878,6 +11878,16 @@
 		)
 		(uuid "5a77d798-6e19-48cb-b35b-739b1f362990")
 	)
+	(text "EN"
+		(exclude_from_sim no)
+		(at 44.45 238.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6402f247-ef37-41f3-ba51-5827175e0969")
+	)
 	(text "M4_S"
 		(exclude_from_sim no)
 		(at 444.5 214.63 90)
@@ -11976,6 +11986,16 @@
 			(justify right bottom)
 		)
 		(uuid "c0471a4f-07e7-4084-bb80-f3cc8b716165")
+	)
+	(text "+"
+		(exclude_from_sim no)
+		(at 44.45 236.22 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c5b164c1-4480-4944-b9f3-e609880a429e")
 	)
 	(text "7-26V\nMAX 7A"
 		(exclude_from_sim no)
