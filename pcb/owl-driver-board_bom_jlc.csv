@@ -1,5 +1,5 @@
 "Comment","Designator","Footprint","LCSC Part #"
-"47uF","C1,C2,C3,C4,C5,C10,C11,C12,C14,C15,C16,C18,C19,C20","C_1206_3216Metric_nosilk","C403725"
+"10uF","C1,C2,C3,C4,C5,C10,C11,C12,C14,C15,C16,C18,C19,C20","C_1206_3216Metric_nosilk","C14663"
 "0.1uF","C6,C7,C9,C17,C21,C25,C26,C27,C28,C29,C30","C_0603_1608Metric_nosilk","C14663"
 "220uF 25V","C8","CP_Radial_D8.0mm_P3.50mm","C216322"
 "100uF 6.3V","C13","CP_EIA-3528-21_Kemet-B","C16133"

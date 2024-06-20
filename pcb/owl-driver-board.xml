@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/home/blinken/co/owl-driver-board/pcb/owl-driver-board.kicad_sch</source>
-    <date>2024-06-08T17:28:37+0100</date>
-    <tool>Eeschema 8.0.2+dfsg-1</tool>
+    <date>2024-06-20T13:52:17+0100</date>
+    <tool>Eeschema 8.0.3+dfsg-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Open Weed Locator - Driver Board</title>
@@ -25,19 +25,18 @@
   </design>
   <components>
     <comp ref="C1">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -46,19 +45,18 @@
       <tstamps>57a4eef0-f355-4bc5-ae42-e08e1dd53914</tstamps>
     </comp>
     <comp ref="C2">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -67,19 +65,18 @@
       <tstamps>8f9ed35c-2ef0-472d-acae-cce014bdec07</tstamps>
     </comp>
     <comp ref="C3">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -88,19 +85,18 @@
       <tstamps>7bb4e56b-546e-4056-b4d4-f029e01b0484</tstamps>
     </comp>
     <comp ref="C4">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -109,19 +105,18 @@
       <tstamps>1c75a631-8f06-4721-97dc-efe94e136ab5</tstamps>
     </comp>
     <comp ref="C5">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -206,19 +201,18 @@
       <tstamps>79dbc869-b9c2-4cf5-be99-215e3a9ef681</tstamps>
     </comp>
     <comp ref="C10">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -227,19 +221,18 @@
       <tstamps>486a9bbf-761c-4745-9034-e5810c70617d</tstamps>
     </comp>
     <comp ref="C11">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -248,19 +241,18 @@
       <tstamps>d79b002f-a178-4a4f-ad64-509ed64deafb</tstamps>
     </comp>
     <comp ref="C12">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -288,19 +280,18 @@
       <tstamps>0e65015f-31f7-4c39-bf2f-1883ab16a884</tstamps>
     </comp>
     <comp ref="C14">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -309,19 +300,18 @@
       <tstamps>e8ae4429-d6b7-47c8-a802-a8ff6bb60290</tstamps>
     </comp>
     <comp ref="C15">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -330,19 +320,18 @@
       <tstamps>bc1294e8-79a8-4603-ab75-9c54a14174ae</tstamps>
     </comp>
     <comp ref="C16">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -370,19 +359,18 @@
       <tstamps>6dc0b6d3-74b8-4c71-8860-5e98d3275fe9</tstamps>
     </comp>
     <comp ref="C18">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -391,19 +379,18 @@
       <tstamps>b953df02-b61f-4e43-91ee-bb5aefbefdb5</tstamps>
     </comp>
     <comp ref="C19">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -412,19 +399,18 @@
       <tstamps>a3a6c5e9-886a-4202-8795-c514d2b4094a</tstamps>
     </comp>
     <comp ref="C20">
-      <value>47uF</value>
+      <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</datasheet>
       <fields>
         <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C403725</field>
+        <field name="LCSC">C14663</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
-        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf</field>
+        <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C403725"/>
+      <property name="LCSC" value="C14663"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>

@@ -15544,7 +15544,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 152.4 63.4999 0)
 			(effects
 				(font
@@ -15562,7 +15562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 148.59 62.23 0)
 			(effects
 				(font
@@ -15589,7 +15589,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 148.59 62.23 0)
 			(effects
 				(font
@@ -16277,7 +16277,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 196.85 63.4999 0)
 			(effects
 				(font
@@ -16295,7 +16295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 193.04 62.23 0)
 			(effects
 				(font
@@ -16322,7 +16322,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 193.04 62.23 0)
 			(effects
 				(font
@@ -18922,7 +18922,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 78.74 323.8499 0)
 			(effects
 				(font
@@ -18940,7 +18940,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 74.93 322.58 0)
 			(effects
 				(font
@@ -18967,7 +18967,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 74.93 322.58 0)
 			(effects
 				(font
@@ -20034,7 +20034,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 133.35 63.4999 0)
 			(effects
 				(font
@@ -20052,7 +20052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 129.54 62.23 0)
 			(effects
 				(font
@@ -20079,7 +20079,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 129.54 62.23 0)
 			(effects
 				(font
@@ -22463,7 +22463,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 187.96 63.4999 0)
 			(effects
 				(font
@@ -22481,7 +22481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 184.15 62.23 0)
 			(effects
 				(font
@@ -22508,7 +22508,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 184.15 62.23 0)
 			(effects
 				(font
@@ -24024,7 +24024,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 142.24 63.4999 0)
 			(effects
 				(font
@@ -24042,7 +24042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 138.43 62.23 0)
 			(effects
 				(font
@@ -24069,7 +24069,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 138.43 62.23 0)
 			(effects
 				(font
@@ -25600,7 +25600,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 71.12 115.5699 0)
 			(effects
 				(font
@@ -25618,7 +25618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 67.31 114.3 0)
 			(effects
 				(font
@@ -25645,7 +25645,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 67.31 114.3 0)
 			(effects
 				(font
@@ -27317,7 +27317,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 57.15 115.5699 0)
 			(effects
 				(font
@@ -27335,7 +27335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 60.96 114.3 0)
 			(effects
 				(font
@@ -27362,7 +27362,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 60.96 114.3 0)
 			(effects
 				(font
@@ -27551,7 +27551,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 170.18 63.4999 0)
 			(effects
 				(font
@@ -27569,7 +27569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 166.37 62.23 0)
 			(effects
 				(font
@@ -27596,7 +27596,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 166.37 62.23 0)
 			(effects
 				(font
@@ -28997,7 +28997,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 223.52 120.6499 0)
 			(effects
 				(font
@@ -29015,7 +29015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 219.71 119.38 0)
 			(effects
 				(font
@@ -29042,7 +29042,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 219.71 119.38 0)
 			(effects
 				(font
@@ -29990,7 +29990,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 161.29 63.4999 0)
 			(effects
 				(font
@@ -30008,7 +30008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 157.48 62.23 0)
 			(effects
 				(font
@@ -30035,7 +30035,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 157.48 62.23 0)
 			(effects
 				(font
@@ -31110,7 +31110,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 210.82 120.6499 0)
 			(effects
 				(font
@@ -31128,7 +31128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 207.01 119.38 0)
 			(effects
 				(font
@@ -31155,7 +31155,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 207.01 119.38 0)
 			(effects
 				(font
@@ -31554,7 +31554,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 179.07 63.4999 0)
 			(effects
 				(font
@@ -31572,7 +31572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 175.26 62.23 0)
 			(effects
 				(font
@@ -31599,7 +31599,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 175.26 62.23 0)
 			(effects
 				(font
@@ -31818,7 +31818,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "10uF"
 			(at 77.47 115.5699 0)
 			(effects
 				(font
@@ -31836,7 +31836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf"
+		(property "Datasheet" ""
 			(at 73.66 114.3 0)
 			(effects
 				(font
@@ -31863,7 +31863,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C403725"
+		(property "LCSC" "C14663"
 			(at 73.66 114.3 0)
 			(effects
 				(font
