@@ -28,6 +28,12 @@ diodes provide reverse polarity protection, protection against noise and
 inductive voltage spikes, and over-voltage protection. This protection also
 extends to communication buses with the Raspberry Pi.
 
+# Purchase a finished board
+
+You can buy a finished board via the following distributors:
+
+ * [paradar.co.uk](https://paradar.co.uk/products/owl-driver-board-raspberry-pi-automotive-relay-hat) (currently shipping v2.4)
+
 # Changelog
 
 ## v2.4
@@ -80,12 +86,6 @@ KiCanvas links:
 
  * [Schematic](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fgeezacoleman%2Fowl-driver-board%2Fblob%2Fmain%2Fpcb%2Fowl-driver-board.kicad_sch)
  * [Layout](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fgeezacoleman%2Fowl-driver-board%2Fblob%2Fmain%2Fpcb%2Fowl-driver-board.kicad_pcb)
-
-# Purchase a finished board
-
-You can buy a finished board via the following distributors:
-
- * [paradar.co.uk](https://paradar.co.uk/products/owl-driver-board-raspberry-pi-automotive-relay-hat) (currently shipping v2.2)
 
 # License
 
