@@ -28369,7 +28369,7 @@
 				)
 			)
 		)
-		(property "Value" "SZYY0805R"
+		(property "Value" "SZYY0805YG"
 			(at 168.021 246.6415 90)
 			(effects
 				(font
@@ -28405,7 +28405,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C434431"
+		(property "LCSC" "C434435"
 			(at 166.37 248.92 0)
 			(effects
 				(font
