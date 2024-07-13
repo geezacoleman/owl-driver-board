@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/home/blinken/co/owl-driver-board/pcb/owl-driver-board.kicad_sch</source>
-    <date>2024-06-20T13:52:17+0100</date>
-    <tool>Eeschema 8.0.3+dfsg-1</tool>
+    <date>2024-07-13T12:45:02+0100</date>
+    <tool>Eeschema 8.0.3+b1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Open Weed Locator - Driver Board</title>
@@ -28,15 +28,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -48,15 +48,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -68,15 +68,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -88,15 +88,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -108,15 +108,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -204,15 +204,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -224,15 +224,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -244,15 +244,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -283,15 +283,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -303,15 +303,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -323,15 +323,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -362,15 +362,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -382,15 +382,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -402,15 +402,15 @@
       <value>10uF</value>
       <footprint>misc:C_1206_3216Metric_nosilk</footprint>
       <fields>
-        <field name="Part">GRM31CR61E476ME44L</field>
-        <field name="LCSC">C14663</field>
+        <field name="Part">1206X106K500CT</field>
+        <field name="LCSC">C89835</field>
         <field name="Footprint">misc:C_1206_3216Metric_nosilk</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Part" value="GRM31CR61E476ME44L"/>
-      <property name="LCSC" value="C14663"/>
+      <property name="Part" value="1206X106K500CT"/>
+      <property name="LCSC" value="C89835"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
@@ -1306,16 +1306,16 @@
       <tstamps>ac6f6dca-8567-4b9d-b6a7-56da5ad902a2</tstamps>
     </comp>
     <comp ref="D41">
-      <value>SZYY0805R</value>
+      <value>SZYY0805YG</value>
       <footprint>misc:LED_0805_2012Metric</footprint>
       <fields>
-        <field name="LCSC">C434431</field>
+        <field name="LCSC">C434435</field>
         <field name="Footprint">misc:LED_0805_2012Metric</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="LCSC" value="C434431"/>
+      <property name="LCSC" value="C434435"/>
       <property name="Sheetname" value="Root"/>
       <property name="Sheetfile" value="owl-driver-board.kicad_sch"/>
       <property name="ki_keywords" value="LED diode"/>

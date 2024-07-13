@@ -15580,7 +15580,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 148.59 62.23 0)
 			(effects
 				(font
@@ -15589,7 +15589,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 148.59 62.23 0)
 			(effects
 				(font
@@ -16313,7 +16313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 193.04 62.23 0)
 			(effects
 				(font
@@ -16322,7 +16322,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 193.04 62.23 0)
 			(effects
 				(font
@@ -18958,7 +18958,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 74.93 322.58 0)
 			(effects
 				(font
@@ -18967,7 +18967,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 74.93 322.58 0)
 			(effects
 				(font
@@ -20070,7 +20070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 129.54 62.23 0)
 			(effects
 				(font
@@ -20079,7 +20079,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 129.54 62.23 0)
 			(effects
 				(font
@@ -22499,7 +22499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 184.15 62.23 0)
 			(effects
 				(font
@@ -22508,7 +22508,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 184.15 62.23 0)
 			(effects
 				(font
@@ -24060,7 +24060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 138.43 62.23 0)
 			(effects
 				(font
@@ -24069,7 +24069,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 138.43 62.23 0)
 			(effects
 				(font
@@ -25636,7 +25636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 67.31 114.3 0)
 			(effects
 				(font
@@ -25645,7 +25645,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 67.31 114.3 0)
 			(effects
 				(font
@@ -27353,7 +27353,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 60.96 114.3 0)
 			(effects
 				(font
@@ -27362,7 +27362,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 60.96 114.3 0)
 			(effects
 				(font
@@ -27587,7 +27587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 166.37 62.23 0)
 			(effects
 				(font
@@ -27596,7 +27596,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 166.37 62.23 0)
 			(effects
 				(font
@@ -29033,7 +29033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 219.71 119.38 0)
 			(effects
 				(font
@@ -29042,7 +29042,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 219.71 119.38 0)
 			(effects
 				(font
@@ -30026,7 +30026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 157.48 62.23 0)
 			(effects
 				(font
@@ -30035,7 +30035,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 157.48 62.23 0)
 			(effects
 				(font
@@ -31146,7 +31146,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 207.01 119.38 0)
 			(effects
 				(font
@@ -31155,7 +31155,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 207.01 119.38 0)
 			(effects
 				(font
@@ -31590,7 +31590,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 175.26 62.23 0)
 			(effects
 				(font
@@ -31599,7 +31599,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 175.26 62.23 0)
 			(effects
 				(font
@@ -31854,7 +31854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part" "GRM31CR61E476ME44L"
+		(property "Part" "1206X106K500CT"
 			(at 73.66 114.3 0)
 			(effects
 				(font
@@ -31863,7 +31863,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C89835"
 			(at 73.66 114.3 0)
 			(effects
 				(font
