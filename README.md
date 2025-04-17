@@ -55,9 +55,9 @@ protection also extends to communication buses with the Raspberry Pi.
 
 ### Additional features for the 16x output version only
 
-* 10x fused inputs max. 10A each (connect all inputs in parallel for 30A total board input power)
+* 3x fused inputs max. 10A each (connect all inputs in parallel for 30A total board input power)
 * 10A mini-blade fuses on inputs
-* Spare fuse holder (including spare fuse)
+* Spare fuse holder
 * Inputs and outputs use JST VH connectors
 * Version 1.0
 
