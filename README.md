@@ -1,53 +1,97 @@
 
-<img src="./doc/5.jpg" alt="Power rail probe, schematic" width="700">
+<img src="./doc/4-v2.4/1.jpg" alt="4-output OWL Driver Board version 2.4" width="700">
+
+<img src="./doc/4-v2.4/3.jpg" alt="4-output OWL Driver Board version 2.4" width="700">
+
+<img src="./doc/16-v1.0/1.jpg" alt="16-output OWL Driver Board version 1.0" width="700">
+
+<img src="./doc/16-v1.0/2.jpg" alt="16-output OWL Driver Board version 1.0" width="700">
+ 
+<img src="./doc/16-v1.0/3.jpg" alt="16-output OWL Driver Board version 1.0" width="700">
 
 The OWL Driver Board is a solid-state relay HAT for the Raspberry Pi. It was
 developed for use with the [Open Weed Locator](https://github.com/geezacoleman/OpenWeedLocator) 
-but is suitable for any automotive or agricultural application.
+but is suitable for any high-power, industrial, automotive or agricultural application.
 
-It allows a Raspberry Pi to drive 4x 2A outputs in any 12V or 24V system. It is
-able to tolerate high levels of electrical noise, reverse polarity, short
-circuit conditions and over voltage.
+It allows a Raspberry Pi to drive either 4x or 16x 2A outputs in any 12V or 24V
+system, with the solid state switching allowing PWM control, including for
+dimming LED strips. Outputs can be placed in parallel for more power if needed.
 
- * Working voltage 7-26V
- * 4x fused outputs, each max. 2A, high-side switched
- * 1x fused input max. 7A
- * Integrated PCA9685 PWM driver allows optional PWM control, compatible with Adafruit PCA9675 Python libraries
- * Outputs can be driven in multiple ways, configurable by a header
-   * From Raspberry PI GPIOs
-   * From an on-board PCA9685 PWM driver
-   * Directly from external control, via wires to a header. Control inputs are tolerant up to 26V.
- * Buck converter generates 5V @ 3A / 5A burst to power the Raspberry Pi. Powers the Raspberry Pi 5.
- * Input and output connectors use high-quality Phoenix Contact screw terminals
- * Input and outputs are fused, with protection against over-voltage, reverse polarity, and inductive spikes
- * LED indication of blown fuses
+It is able to tolerate high levels of electrical noise, reverse polarity, short
+circuit conditions and over voltage. It also protects the Pi from all this
+electrical nastiness and provides a filtered source of 5V @ 5A!
+
+It's ideal for use safely driving LED strips, high power motors, relays and
+solenoids from a Raspberry Pi.
 
 The board aims to be difficult to misconfigure and hard to damage.
-Self-resetting polyfuses on the input and outputs limit current, and TVS+Schottky
-diodes provide reverse polarity protection, protection against noise and
-inductive voltage spikes, and over-voltage protection. This protection also
-extends to communication buses with the Raspberry Pi.
+Self-resetting polyfuses on the input and outputs limit current, and
+TVS+Schottky diodes provide reverse polarity protection, protection against
+noise and inductive voltage spikes, and over-voltage protection. This
+protection also extends to communication buses with the Raspberry Pi.
+
+# Features
+
+### Both models (4x and 16x output versions)
+
+* Open Hardware, made in the UK: schematics and design files freely available.
+* Working voltage 7-26V
+* 4x or 16x fused outputs, each max. 2A, high-side switched
+* 1x e-stop / global enable input
+* Outputs can be driven in multiple ways, configurable by a header
+* From Raspberry PI GPIOs
+* Directly from external control, via wires to a header. Control inputs are tolerant up to 26V.
+* Buck converter generates 5.1V @ 3A continuous / 5A burst to power the Raspberry Pi (Pi 5 compatible!)
+* Input and outputs are fused, with protection against over-voltage, reverse polarity, and inductive spikes
+* LED indication of blown fuses
+
+### Additional features for the 4x output version only
+
+* 1x fused input max. 7A
+* Self-resetting input polyfuse
+* Integrated PCA9685 PWM driver allows optional PWM control via I2C, compatible with Adafruit PCA9675 Python libraries
+* Input and output connectors use high-quality Phoenix Contact screw terminals
+* Version 2.4
+
+### Additional features for the 16x output version only
+
+* 10x fused inputs max. 10A each (connect all inputs in parallel for 30A total board input power)
+* 10A mini-blade fuses on inputs
+* Spare fuse holder (including spare fuse)
+* Inputs and outputs use JST VH connectors
+* Version 1.0
+
 
 # Purchase a finished board
 
-You can buy a finished board via the following distributors:
+You can buy a finished board (4x or 16x output versions) via the following distributors:
 
- * [paradar.co.uk](https://paradar.co.uk/products/owl-driver-board-raspberry-pi-automotive-relay-hat) (currently shipping v2.4)
+ * [paradar.co.uk](https://paradar.co.uk/products/owl-driver-board-raspberry-pi-automotive-relay-hat)
 
 # Changelog
 
-## v2.4
+## 16x v1.1
+
+* Correctly connect the input connectors to the input fuses.
+
+## 16x v1.0
+
+* Initial prototype of a 16-output version of the PCB. Note the Gerbers for
+  this version have a bug - the input connectors are not attached to the fuse
+  input, and a link must be manually soldered.
+
+## 4x v2.4
 
 * Add an "output enable" terminal (J10) for use with an emergency stop switch.
   Outputs are enabled when the terminal is shorted; they are disabled when it
   is disconnected.
 
-## v2.3
+## 4x v2.3
 
 * Improved Pi regulator efficiency (81% -> 87%) to reduce heat generated when
   driving a Raspberry Pi 5
 
-## v2.2
+## 4x v2.2
 
 * Change out the switching buck regulator from a 2A max limit to a 5A model.
   Increase the regulation voltage from 5.0V -> 5.1V to drive a Raspberry Pi 5
@@ -56,7 +100,7 @@ You can buy a finished board via the following distributors:
   of current from the Pi into the board when powered off, and the Pi has a
   separate USB-C power supply.
 
-## v2.1
+## 4x v2.1
 
 * Add a slot for the Raspberry Pi camera connector, to allow the ribbon cable
   to easily pass through the driver board.
@@ -65,7 +109,7 @@ You can buy a finished board via the following distributors:
 * Fix major error in v2.0 where MOSFET rotations were incorrect
 * General manufacturability improvements (component polarity in silkscreen)
 
-## v2.0
+## 4x v2.0
 
 * Significantly rework layout to allow space for instructions on the top. Move
   most components to the bottom layer.
@@ -76,7 +120,7 @@ You can buy a finished board via the following distributors:
 * Change diodes from SMA to DO-123F to save space.
 * Change most resistors from 0805 to 0603 to save space.
 
-## v1.0
+## 4x v1.0
 
 Initial prototype.
 
