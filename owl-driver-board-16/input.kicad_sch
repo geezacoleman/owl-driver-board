@@ -2090,7 +2090,7 @@
 				)
 			)
 		)
-		(property "Value" "JK30-900"
+		(property "Value" "XF-508P-B-B"
 			(at 157.48 87.63 90)
 			(effects
 				(font
@@ -2098,7 +2098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_Bourns_MF-RHT1000"
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
 			(at 162.56 88.9 0)
 			(effects
 				(font
@@ -2108,7 +2108,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Jinrui-Electronic-Materials-Co--JK30-900_C369112.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410121830_XFCN-XF-508P-B-B_C19727305.pdf"
 			(at 157.48 90.17 0)
 			(effects
 				(font
@@ -2126,7 +2126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Note" "9A-hold 30V self-resetting fuse"
+		(property "Note" "10A-hold 30V mini blade fuse"
 			(at 157.48 93.98 90)
 			(effects
 				(font
@@ -2134,7 +2134,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C369112"
+		(property "LCSC" "C19727305"
 			(at 157.48 90.17 0)
 			(effects
 				(font
@@ -2333,7 +2333,7 @@
 				)
 			)
 		)
-		(property "Value" "SZYY0805R"
+		(property "Value" "KT-0805Y"
 			(at 160.2815 79.629 90)
 			(effects
 				(font
@@ -2369,13 +2369,21 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C434431"
+		(property "LCSC" "C2296"
 			(at 162.56 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part" "KT-0805Y"
+			(at 162.56 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

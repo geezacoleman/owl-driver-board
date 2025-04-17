@@ -114,9 +114,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.75,
-          "height": 2.75,
-          "width": 2.75
+          "drill": 0.0,
+          "height": 4.9,
+          "width": 2.95
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -138,71 +138,35 @@
       ],
       "drc_exclusions": [
         [
-          "courtyards_overlap|16979999|15845116|e985cdd8-184f-47ef-829b-0677b2d68c2b|f11e2f2c-8883-44d8-b01d-c6532fc8cb76",
+          "courtyards_overlap|110619994|112223080|7b8f4a35-e972-4b62-b09a-c40c9e55c552|8303c098-37a5-422b-823e-7a93b3ce7a0c",
           ""
         ],
         [
-          "courtyards_overlap|18657499|17367284|8bca1a3b-857d-4fa8-99ff-1df5e2897200|f11e2f2c-8883-44d8-b01d-c6532fc8cb76",
+          "courtyards_overlap|117809994|58936892|11c4f918-6608-43c5-a3a4-7d83e415c945|aa5db43f-6edc-44e3-9401-872a06a13cd6",
           ""
         ],
         [
-          "courtyards_overlap|58749999|54392637|69bf5144-ef9b-4828-98eb-151555b2c32d|00000000-0000-0000-0000-000055169dc9",
+          "courtyards_overlap|132634928|85063838|4749975e-8819-4ab8-b08d-fb6611118fc0|e7b248f1-4fd1-4523-86d3-922868001803",
           ""
         ],
         [
-          "courtyards_overlap|6585667|52720001|62eab0cd-671c-47d1-80ae-4bdf0effe3f2|00000000-0000-0000-0000-00005515decc",
+          "courtyards_overlap|174717889|85646684|33c6fcf7-0708-4890-8238-6a8a918cff11|d34424e0-cf0e-46c6-a17f-09205811ab6f",
           ""
         ],
         [
-          "footprint_type_mismatch|14300000|13450000|908adad9-047c-40d3-9b62-45ba2337a512|00000000-0000-0000-0000-000000000000",
+          "courtyards_overlap|217120000|99755000|78bd952c-069b-494e-9bdf-4e7e48a1ff5d|e56556a0-edd2-4412-b675-cbd45ae0e05a",
           ""
         ],
         [
-          "silk_over_copper|10100000|43950000|e66b8f64-507d-49a0-b4b8-e246207bdff2|00000000-0000-0000-0000-000000000000",
+          "courtyards_overlap|31634928|85063838|5da0e322-eb0d-4779-aed6-96dccc30db0b|ad786daf-ecb5-4ae7-a662-a6fef2fbf7ef",
           ""
         ],
         [
-          "silk_over_copper|11450000|39900000|4d86b967-1168-48ab-9968-6f1c5f7cfe94|00000000-0000-0000-0000-000000000000",
+          "courtyards_overlap|52634928|85063838|7cc9b055-6db3-422e-9956-c2331fc2101d|a59bf610-d8c9-438d-9c12-4917efd52cbe",
           ""
         ],
         [
-          "silk_over_copper|15550000|36350000|c43e5522-b436-4adf-871d-c05f52ce5b0e|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|20150000|22400000|77976452-8d63-4be5-986a-78ccd9086bc0|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|23150000|38400000|12731e89-d915-44f3-a406-901a8a25cd94|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|23200000|42900000|11e353b7-6a14-48b8-8474-a3c08cd554e1|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|25450000|31500000|09a923da-7e7f-4711-a91e-5f3922e1be43|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|37900000|43200000|22171932-465d-4b5e-8fd1-d04ab43e7c1d|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|46900000|7250000|37e344ea-eb6b-4038-896a-f937ef3524b5|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|56300000|39250000|9cd53a34-380c-46fe-a51d-e2df356d8e6b|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|58000000|37100000|7ba84460-939b-4435-8865-2649af301ae1|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "starved_thermal|13650000|36162500|721ad73e-d5d8-404a-a6fd-d66ae3581385|c8f9dedf-51b6-498a-86b3-0611f7deffb4|B.Cu",
+          "courtyards_overlap|92634928|85063838|30b5639b-5aae-43b5-b547-ccc26d6a7b93|cf4b5a9b-bf72-431b-92a0-d54cf9cad86f",
           ""
         ]
       ],
@@ -608,7 +572,7 @@
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
-      "lib_symbol_mismatch": "warning",
+      "lib_symbol_mismatch": "ignore",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",

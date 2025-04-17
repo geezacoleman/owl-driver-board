@@ -2252,9 +2252,9 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "M1_S"
+	(text "SOURCE"
 		(exclude_from_sim no)
-		(at 186.69 72.39 90)
+		(at 186.69 69.85 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2795,7 +2795,17 @@
 		)
 		(uuid "fd384753-7b3d-4229-b005-eb84d83a6ff2")
 	)
-	(label "M1_G"
+	(label "OUTPUT+"
+		(at 226.06 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "153347f5-c2f3-4702-86ff-193c54b5bd8d")
+	)
+	(label "GATE"
 		(at 176.53 83.82 180)
 		(effects
 			(font
@@ -2805,7 +2815,7 @@
 		)
 		(uuid "378102aa-00f3-42c6-bb32-0c45c8048f8b")
 	)
-	(label "M1_D"
+	(label "DRAIN"
 		(at 187.96 90.17 0)
 		(effects
 			(font
@@ -2996,7 +3006,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SZYY0805YG"
+		(property "Value" "KT-0805G"
 			(at 154.051 117.1015 90)
 			(effects
 				(font
@@ -3014,7 +3024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Yongyu-Photoelectric-SZYY0805YG_C434435.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550724011370958848"
 			(at 152.4 119.38 0)
 			(effects
 				(font
@@ -3032,13 +3042,21 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C434435"
+		(property "LCSC" "C2297"
 			(at 152.4 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part" "KT-0805G"
+			(at 152.4 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3925,7 +3943,7 @@
 				)
 			)
 		)
-		(property "Value" "SZYY0805R"
+		(property "Value" "KT-0805Y"
 			(at 214.8915 79.629 90)
 			(effects
 				(font
@@ -3961,13 +3979,21 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C434431"
+		(property "LCSC" "C2296"
 			(at 217.17 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Part" "KT-0805Y"
+			(at 217.17 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -6511,7 +6537,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "10uF"
 			(at 125.73 91.4399 0)
 			(effects
 				(font
@@ -6520,7 +6546,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "misc:C_0603_1608Metric_nosilk"
+		(property "Footprint" "misc:C_1206_3216Metric_nosilk"
 			(at 122.8852 93.98 0)
 			(effects
 				(font
@@ -6529,7 +6555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811021431_Samsung-Electro-Mechanics-CL10B104KB8NNNC_C1591.pdf"
+		(property "Datasheet" ""
 			(at 121.92 90.17 0)
 			(effects
 				(font
@@ -6547,7 +6573,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" "C13585"
+			(at 121.92 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part" "CL31A106KBHNNNE"
 			(at 121.92 90.17 0)
 			(effects
 				(font
